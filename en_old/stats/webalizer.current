@@ -1,0 +1,4871 @@
+# Webalizer V2.21-02 Incremental Data - 01/11/2016 23:51:11
+2016 1 11 23 51 11
+10665 7697 587 847 146 116 297040957 3443 1698 0
+256 12 679 2 11
+0 0 0 0 0 0
+807 733 24552219 132 289 159
+0 0 0 0 0 0
+734 641 24028914 178 273 206
+716 609 20760764 149 343 211
+0 0 0 0 0 0
+1321 1048 37792077 154 425 201
+1596 1273 44513982 174 577 220
+1232 1105 38114196 167 592 173
+779 672 22230154 144 357 193
+3480 1616 85048651 256 587 336
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+374 281 9133195 136
+551 383 12490711 206
+375 320 11180415 164
+239 220 7667076 91
+199 190 6223240 77
+333 267 9068659 158
+439 390 14245435 248
+476 425 14396498 256
+467 406 13409874 257
+186 164 5568598 86
+519 461 18089403 124
+651 412 21158259 138
+307 262 9605710 100
+477 412 14606639 161
+1083 564 37323280 201
+613 330 11983211 103
+852 378 13958842 128
+683 389 16768898 141
+225 197 6497880 65
+476 350 12295095 199
+177 154 5348414 64
+348 268 9312366 111
+342 252 8942436 144
+273 222 7766823 85
+0
+0
+0
+7697
+0
+0
+0
+0
+0
+29
+0
+423
+297
+0
+1876
+0
+0
+35
+0
+0
+2
+284
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+4
+0
+0
+# -urls- 
+/category/dic/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/27.icd
+0 10 3531103582835179520 377098 0 0
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+0 14 21926 463091 7 3
+/details/video/5/
+0 1 474429154148 27512 1 1
+/details/dic/90/
+0 1 4122818058361778478 36986 1 1
+/share/core/css/jquery-ui-fixes.css
+0 3 116 12027 0 0
+/details/dic/95/tin-noi-bat/net-dep-truyen-thong-gia-dinh-viet-nam/20
+0 1 3330472608808449585 38188 0 0
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+0 7 7596835273554788352 267537 0 0
+/details/video/3/video-gioi-thieu/welcome-to-vietnam-clip-quang-ba-du-lich-viet-nam/23
+0 1 5332606351584408116 28953 0 0
+/details/dic/89/su-kien-trong-nuoc/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+0 4 72057594037927936 131893 0 0
+/details/dic/90/tin-su-kien/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/
+0 1 7017575154020515840 37335 1 1
+/details/video/6/
+0 1 0 26839 1 1
+/details/dic/91/
+0 1 0 38075 1 1
+/contact.icd
+0 39 0 1041476 0 0
+/
+0 861 0 31470432 597 385
+/home/operations/2012/02
+0 1 29861536 22510 1 0
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+0 67 0 2430839 0 0
+/category/dic/tin-anh/31.icd
+0 54 0 1483425 0 0
+/details/dic/116/tin-su-kien/
+0 1 0 32041 0 1
+/details/dic/83/tin-su-kien/
+0 1 0 31167 1 1
+/details/dic/114/tin-noi-bat/
+0 1 0 37606 1 0
+/details/video/6/video-tham-khao
+0 1 0 26919 1 1
+/details/dic/104/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/day-manh-quang-ba-du-lich-viet-nam-tai-thi-truong-trung-quoc/27
+0 2 0 79420 0 1
+/details/dic/79/tin-su-kien
+0 1 0 38736 1 1
+/details/dic/102/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap/27
+0 3 0 113671 2 2
+/share/core/css/apps.css
+0 3 0 47838 0 0
+/details/dic/113/van-hoa/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11.icd
+0 14 0 589555 0 0
+/home/operations/2012/10
+0 1 29861168 22584 1 0
+/home/operations/2012/11
+0 2 0 44708 2 1
+/home/operations/2012/12
+0 3 0 67622 3 2
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai/7.icd
+0 6 0 206351 0 0
+/details/video/3/video-tham-khao/welcome-to-vietnam-clip-quang-ba-du-lich-viet-nam/23
+0 7 0 203804 1 0
+/details/video/5/video-chung-toi/phong-su-ngay-quoc-gia-viet-nam-tai-expo-2015-milano-italia/22
+0 8 0 223920 1 1
+/details/dic/88/tin-su-kien/
+0 1 0 35948 0 0
+/category/dic/su-kien-quoc-te/10
+0 11 21884 309865 6 3
+/details/dic/95/tin-su-kien/net-dep-truyen-thong-gia-dinh-viet-nam/
+0 2 1953722216 71071 2 2
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+0 13 7959600395846037091 497507 8 6
+/details/dic/104/tin-su-kien
+0 1 3543830662680032049 33591 1 0
+/lightbox/dist/simplelightbox.css
+0 7 7885630523403690340 25606 0 0
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+0 15 7146777676180909679 496134 10 8
+/details/dic/96/gia-dinh/
+0 1 7596835273554800184 32953 0 1
+/category/dic/the-gioi-voi-viet-nam/25.icd
+0 67 0 1899827 0 0
+/category/dic/Thể-thao/12
+0 1 0 35755 0 0
+/details/dic/105/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap/27.icd
+0 10 0 419903 0 0
+/details/dic/107/tin-su-kien/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27.icd
+0 6 0 234545 0 0
+/details/dic/100/su-kien-cua-chung-toi/
+0 1 0 36033 1 1
+/details/dic/107/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27
+0 6 0 236664 2 1
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016
+0 2 0 64801 2 2
+/details/dic/92/ho-so-lanh-dao-bo/dong-chi-vuong-duy-bien
+0 1 0 29967 1 1
+/home/operations/2024/06
+0 1 0 22305 0 1
+/details/dic/96/gia-dinh/bua-com-gia-dinh
+0 1 29824336 32934 1 0
+/home/operations/2024/08
+0 1 0 22341 1 0
+/details/dic/115/tin-su-kien
+0 1 0 37458 1 1
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+0 12 0 488121 3 3
+/category/dic/du-lich/20.icd
+0 37 0 1095343 0 0
+/details/dic/96/tin-su-kien/bua-com-gia-dinh/
+0 2 0 66003 2 1
+/details/dic/97/tin-noi-bat/y-nghia-ngay-gia-dinh-viet-nam-286/20.icd
+0 1 0 38203 0 0
+/details/dic/87/tin-noi-bat/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/12
+0 4 0 167932 0 0
+/bootstrap/v2.2/bootstrap-transition.js
+0 1 0 2015 0 0
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai
+0 1 0 29972 1 0
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai/
+0 1 0 29972 0 0
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam
+0 1 29850416 31435 1 0
+/home/operations/1952/06
+0 1 0 22771 1 1
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/
+0 2 0 61068 2 2
+/details/video/6/video-tham-khao/vietnam-timeless-charm/
+0 2 0 53964 1 1
+/details/dic/22/tin-su-kien/dong-chi-dang-thi-bich-lien/
+0 1 0 29815 1 0
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia
+0 1 29853568 38070 1 0
+/details/dic/112/van-hoa
+0 1 116 31630 1 1
+/details/dic/95/
+0 1 3543827338392122679 35332 1 0
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai/7
+0 2 4120848833019588910 69007 1 1
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+0 9 3544665166336568883 328228 1 1
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te
+0 1 0 32102 1 1
+/share/core/css/tooltip.css
+0 3 116 8298 0 0
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+0 1 29827472 30566 0 0
+/share/core/search/js/search.js
+0 3 0 35406 0 0
+/details/video/3
+0 1 29815056 28636 1 1
+/details/video/4
+0 1 29815616 28083 1 0
+/details/dic/96/
+0 1 29816720 32908 0 0
+/details/video/5
+0 1 29815392 27511 1 1
+/details/video/6
+0 1 29815840 26839 0 1
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam/
+0 2 3615882737701762357 62700 2 1
+/details/dic/112/tin-su-kien/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11.icd
+0 22 0 845610 0 0
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai/7.icd
+0 5 0 171930 0 0
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai/7.icd
+0 4 0 137269 0 0
+/details/dic/112/tin-su-kien/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/
+0 2 0 64176 0 2
+/video/dic/video-gioi-thieu/23
+0 2 0 71073 0 0
+/details/video/6/video-tham-khao/vietnam-timeless-charm/23
+0 8 0 217051 2 1
+/details/dic/113/tin-noi-bat/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+0 8 0 337285 2 1
+/details/dic/97/
+0 1 0 35870 1 1
+/bootstrap/v2.2/bootstrap.css
+0 317 0 11941851 0 0
+/category/dic/Cơ-cấu--Bộ-văn-hoá-du-lịch-thế-thao/6
+0 1 0 29111 1 0
+/details/dic/86/the-thao/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12
+0 5 0 183146 0 0
+/home/operations/2014/01
+0 8 0 179902 2 1
+/home/operations/2014/02
+0 8 0 178609 1 0
+/home/operations/2014/03
+0 10 0 226374 3 0
+/details/dic/79/van-hoa
+0 1 0 38716 1 1
+/home/operations/2014/04
+0 8 0 179455 4 2
+/home/operations/2014/05
+0 6 0 134710 3 3
+/home/operations/2014/06
+0 7 0 157906 3 2
+/home/operations/2014/07
+0 3 0 67454 1 1
+/details/dic/90/tin-su-kien
+0 1 0 37046 0 1
+/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13.icd
+0 11 8317981851476258668 461911 0 0
+/home/operations/2014/08
+0 6 0 134590 2 3
+/details/dic/97/tin-su-kien/
+0 1 3544615481228918784 35932 1 1
+/home/operations/2014/09
+0 3 5979566401381740849 67350 0 0
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+0 1 29829088 30586 1 0
+/details/dic/98/
+0 1 88154655497269298 36106 1 1
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam/13.icd
+0 16 28278 599104 0 0
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/
+0 2 7541112654441558574 72888 1 1
+/details/dic/99/tin-noi-bat/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+0 12 0 449872 6 4
+/home/operations/2014/10
+0 3 0 67058 0 0
+/home/operations/2014/11
+0 3 0 67375 1 1
+/home/operations/2014/12
+0 3 0 67507 0 0
+/contact
+0 13 0 348143 7 5
+/details/dic/95/tin-su-kien/net-dep-truyen-thong-gia-dinh-viet-nam/20
+0 5 0 188559 2 2
+/details/dic/85/tin-noi-bat/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12
+0 3 0 117444 1 1
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/31.icd
+0 46 0 1598292 0 0
+/details/dic/115/tin-noi-bat/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11
+0 6 0 274835 2 2
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi
+0 1 29850240 36023 0 0
+/details/dic/103/tin-su-kien/
+0 1 0 32335 1 1
+/category/dic/cac-nghi-dinh/16.icd
+0 2 0 62962 0 0
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai
+0 1 29853344 36277 1 0
+/details/dic/101/tin-noi-bat/
+0 1 0 37804 1 1
+/details/dic/99/
+0 1 0 32168 1 1
+/category/dic/viet-nam-cultural-centers-abroad/27
+0 15 0 565750 6 4
+/details/dic/99/tin-noi-bat/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/
+0 1 0 32468 1 1
+/home/operations/2026/02
+0 1 0 22235 1 0
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016
+0 1 0 36482 1 1
+/home/operations/2026/04
+0 1 0 22304 1 1
+/home/operations/2026/05
+0 1 0 22339 1 1
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai/7
+0 5 0 171443 3 2
+/home/operations/2026/06
+0 1 0 22305 1 0
+/home/operations/2026/07
+0 1 29849952 22341 0 0
+/details/dic/102/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap
+0 1 18280956618972737075 32116 1 1
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+0 13 0 474928 5 4
+/images/icon_list.png
+1 177 8027785501323783168 872211 0 0
+/details/dic/114/van-hoa/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+0 1 8391173025006969711 46217 0 0
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+0 6 3531103582835179520 239061 2 2
+/details/dic/84/tin-su-kien
+0 1 7017575154020515840 35763 1 1
+/details/dic/104/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/day-manh-quang-ba-du-lich-viet-nam-tai-thi-truong-trung-quoc/27.icd
+0 11 0 438833 0 0
+/details/dic/92/tin-su-kien/dong-chi-vuong-duy-bien/
+0 1 0 29937 1 0
+/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/20
+0 22 0 808476 13 12
+/lightbox/dist/simple-lightbox.js
+0 6 0 70224 0 0
+/video/dic/Video-Tham-Khảo/23
+0 2 0 70805 0 1
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+0 12 0 496144 2 2
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+0 1 29852480 32164 0 0
+/pop/jqm-demos.css
+0 8 0 130544 0 0
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh/
+0 1 0 30378 1 1
+/details/dic/102/tin-su-kien/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap
+0 1 0 31976 0 1
+/details/dic/95/tin-su-kien
+0 1 0 35393 1 1
+/lightbox/demo/demo.css
+0 7 0 8666 0 0
+/bootstrap/v2.2/jquery.js
+0 3 0 278682 0 0
+/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/20.icd
+0 61 0 2332782 0 0
+/share/core/js/jquery.ocdialog.js
+0 3 0 21339 0 0
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh/7.icd
+0 6 0 209361 0 0
+/details/dic/80/van-hoa/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11.icd
+0 1 0 44322 0 0
+/details/dic/97/tin-su-kien/y-nghia-ngay-gia-dinh-viet-nam-286/20.icd
+0 12 0 460976 0 0
+/calendar/details/quoc-khanh-viet-nam/13
+0 3 0 99086 2 0
+/home/operations/2023/
+0 2 0 46126 2 2
+/share/core/js/eventsource.js
+0 3 0 13971 0 0
+/category/dic/co-cau-bo-van-hoa-the-thao-va-du-lich/6
+0 4 0 113449 1 1
+/details/video/5/video-chung-toi/phong-su-ngay-quoc-gia-viet-nam-tai-expo-2015-milano-italia
+0 1 0 27891 1 1
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016
+0 1 0 32939 1 1
+/details/dic/79/
+0 1 8317981851476258668 38676 1 1
+/details/dic/90/tin-noi-bat/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/14.icd
+0 1 8027785501323783168 40177 0 0
+/home/operations/2016/01
+0 13 2576341772673363504 290905 3 2
+/home/operations/2016/02
+0 48 7165064279425548288 1067479 29 27
+/details/dic/85/tin-noi-bat/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/contact
+0 5 72057594037927936 171658 2 2
+/share/core/css/multiselect.css
+0 3 28015 8841 0 0
+/home/operations/2016/03
+0 10 11613940346273543726 224010 3 3
+/home/operations/2016/04
+0 3 0 67344 1 1
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam/
+0 2 0 76116 1 2
+/page/ho_so_lanh_dao_cuc/1/lanh-dao-cuc-hop-tac-quoc-te.icd
+0 122 0 3552451 0 0
+/home/operations/2016/05
+0 4 0 90253 0 0
+/home/operations/2016/06
+0 2 0 44646 1 1
+/home/operations/2016/07
+0 4 0 89670 1 1
+/home/operations/2016/08
+0 3 0 67372 1 0
+/home/operations/2016/09
+0 2 0 44963 1 0
+/details/dic/96/gia-dinh/bua-com-gia-dinh/20.icd
+0 8 0 282606 0 0
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+0 8 0 251259 2 4
+/details/dic/112/tin-su-kien/
+0 1 0 31650 1 1
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh
+0 1 29849184 30484 1 0
+/category/dic/du-lich/13
+0 13 0 447771 10 6
+/home/operations/2016/10
+0 4 0 90151 1 1
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore/
+0 1 0 32675 1 1
+/home/operations/2016/11
+0 3 0 66897 2 2
+/home/operations/2016/12
+0 5 0 112077 0 1
+/details/video/4/video-chung-toi
+0 1 0 28163 1 1
+/details/dic/120/cac-nghi-dinh/ve-viec-phe-duyet-nghi-dinh-thu-thanh-lap-uy-ban-lien-chinh-phu-ve-hop-tac-kinh-te-van-hoa-khoa-hoc-va-cong-nghe-giua-chinh-phu-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-va-chinh-phu-nuoc-cong-hoa-mo-dam-bich/16.icd
+0 1 0 34095 0 0
+/images/icon_vn.png
+1 236 0 1354379 0 0
+/details/dic/117/tin-su-kien/
+0 1 0 31723 1 1
+/details/dic/87/the-thao/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/12.icd
+0 12 0 499814 0 0
+/details/dic/103/tin-su-kien
+0 1 0 32335 1 1
+/details/dic/84/tin-su-kien/
+0 1 1853238892 35763 1 0
+/details/dic/89/tin-su-kien
+0 1 7165064279425548288 32694 1 1
+/share/core/js/backgroundjobs.js
+0 2 4123377748417590072 2622 0 0
+/category/dic/du-lich/20
+0 2 0 59069 1 2
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/
+0 1 0 37970 1 1
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/
+0 1 8386112018410635264 32364 0 1
+/category/dic/the-gioi-noi-ve-viet-nam/25.icd
+0 10 0 288701 0 0
+/share/core/js/avatar.js
+0 2 0 1398 0 0
+/home/operations/2026/
+0 1 0 22845 1 0
+/details/dic/112/tin-noi-bat/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11
+0 7 0 279221 1 1
+/share/core/js/oc-dialogs.js
+0 3 0 76437 0 0
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/
+0 2 0 63420 1 2
+/details/dic/114/tin-su-kien
+0 1 0 37606 1 1
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 32475 1 0
+/details/video/3/video-tham-khao/welcome-to-vietnam-clip-quang-ba-du-lich-viet-nam
+0 1 0 28966 1 1
+/details/dic/100
+0 1 0 35923 1 1
+/details/dic/101
+0 1 0 37744 1 1
+/details/dic/102
+0 1 29783024 31711 0 1
+/details/dic/103
+0 1 0 32274 1 0
+/details/dic/104
+0 1 29813488 33530 1 0
+/details/dic/105
+0 1 29813712 35630 1 0
+/details/dic/106
+0 1 29813936 32252 1 1
+/details/dic/107
+0 1 29814160 32936 1 0
+/details/dic/112/tin-noi-bat/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11.icd
+0 10 0 399282 0 0
+/page/ho_so_lanh_dao_cuc/6/phong-chau-a---thai-binh-duong.icd
+0 56 0 1936756 0 0
+/details/dic/96/gia-dinh
+0 1 0 32953 1 1
+/details/dic/101/tin-su-kien/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai
+0 1 0 38109 0 1
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14.icd
+0 8 0 325427 0 0
+/details/dic/84/tin-noi-bat/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13
+0 3 0 127003 2 0
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao
+0 1 29852272 31793 1 0
+/details/dic/110
+0 1 29814384 34483 1 1
+/details/dic/112
+0 1 0 31591 0 1
+/details/dic/113
+0 1 0 33810 1 1
+/details/dic/114
+0 1 0 37546 1 0
+/details/dic/115
+0 1 29815168 37399 1 1
+/details/dic/116
+0 1 0 31980 1 1
+/details/dic/97/tin-su-kien/y-nghia-ngay-gia-dinh-viet-nam-286/
+0 1 0 36002 1 1
+/page/ho_so_lanh_dao_cuc/4/phong-chau-au.icd
+0 14 5764945305857306674 449882 0 0
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai/7
+0 4 3544615481228918784 137042 1 1
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien
+0 1 0 29845 1 0
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+0 11 72057594037927936 401211 3 1
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/
+0 2 3472889068632747571 71881 0 1
+/share/core/img/breadcrumb.svg
+0 2 8028792235694751744 1658 0 0
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/
+0 2 3471775263320258097 56432 1 1
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+0 12 0 449141 2 1
+/details/dic/100/tin-su-kien/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015
+0 1 0 36328 1 1
+/details/dic/91/tin-su-kien/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13.icd
+0 16 0 711588 0 0
+/page/gioi_thieu/23/co-cau-bo-van-hoa-du-lich-the-thao/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6.icd
+0 3 0 220337 0 0
+/details/dic/79/tin-su-kien/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+0 6 0 281313 2 0
+/details/video/5/video-chung-toi/phong-su-ngay-quoc-gia-viet-nam-tai-expo-2015-milano-italia/
+0 1 0 27891 1 1
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/
+0 1 0 32939 1 1
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/
+0 2 0 72386 1 2
+/video/dic/video-tham-khao/23
+0 16 0 564533 5 7
+/details/dic/83/du-lich/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam/13
+0 2 0 74944 0 0
+/share/core/js/oc-backbone.js
+0 2 0 1282 0 0
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano
+0 1 29851968 38001 1 0
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+0 1 29830176 32132 1 0
+/home/operations/2018/01
+0 5 0 111962 0 0
+/details/dic/105/tin-su-kien/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap
+0 1 0 35960 1 1
+/home/operations/2018/02
+0 3 0 66774 1 1
+/details/dic/79/tin-su-kien/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11.icd
+0 14 0 656822 0 0
+/home/operations/2018/03
+0 2 0 44783 1 1
+/home/operations/2018/04
+0 1 29820704 22422 1 1
+/details/dic/107/tin-su-kien/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev
+0 1 0 33281 0 1
+/details/dic/110/
+0 1 0 34482 1 1
+/home/operations/2018/05
+0 1 29827088 22339 1 0
+/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/dem-van-hoa-asean-2015-tai-na-uy/27.icd
+0 10 0 385953 0 0
+/home/operations/2018/09
+0 1 29826848 22306 1 0
+/category/dic/su-kien-trong-nuoc/9
+0 10 3543832848768511543 197301 4 1
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+0 15 0 493198 0 0
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+0 2 3546354020491800115 64356 2 1
+/details/dic/100/tin-su-kien/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+0 25 125783191285604 905104 0 0
+/details/dic/96/tin-su-kien/bua-com-gia-dinh/20
+0 7 3688780388755385907 247024 2 0
+/details/dic/107/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27.icd
+0 11 0 432588 0 0
+/home/operations/2018/10
+0 2 7434989308168384561 44835 2 1
+/home/operations/2018/11
+0 2 0 44776 2 2
+/home/operations/2018/12
+0 2 0 45078 2 2
+/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286
+0 2 0 72078 2 2
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition
+0 1 29852896 34373 1 0
+/details/dic/98/tin-su-kien/
+0 1 0 36166 1 1
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+0 13 0 497279 8 6
+/share/core/js/placeholder.js
+0 2 0 5238 0 0
+/details/dic/92/tin-su-kien/dong-chi-vuong-duy-bien/7
+0 4 0 137403 1 0
+/details/dic/96/tin-su-kien/bua-com-gia-dinh/20.icd
+0 16 0 566851 0 0
+/page/ho_so_lanh_dao_cuc/1/
+0 2 0 61096 2 1
+/details/dic/89/su-kien-cua-chung-toi/
+0 1 0 32744 1 1
+/details/dic/22/tin-su-kien/dong-chi-dang-thi-bich-lien/7
+0 4 0 136833 1 1
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam
+0 1 29851104 38143 1 0
+/details/dic/97/tin-su-kien/y-nghia-ngay-gia-dinh-viet-nam-286
+0 2 0 72243 2 1
+/calendar/details/quoc-khanh-viet-nam/13.icd
+0 1 0 33029 0 0
+/details/dic/112/
+0 1 0 31590 1 1
+/details/dic/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/
+0 1 29831248 31000 1 0
+/page/profile_department_for_international_cooperation
+0 18 0 550087 11 8
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016
+0 2 0 65674 1 2
+/details/dic/90/quan-he-quoc-te/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/14.icd
+0 9 0 358801 0 0
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+0 1 0 32146 1 1
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/
+0 2 0 75971 2 2
+/details/dic/116/du-lich/
+0 1 0 32021 1 1
+/details/dic/104/tin-su-kien/
+0 1 85911639009013305 33590 1 1
+/details/dic/22/tin-su-kien/dong-chi-dang-thi-bich-lien/7.icd
+0 6 7782220156096217088 206039 0 0
+/page/ho_so_lanh_dao_cuc/2/
+0 2 3977010743449038387 64806 1 1
+/home/operations/
+0 1 5635821 24142 1 1
+/details/dic/88/tin-su-kien/bo-truong-hoang-tuan-anh-nhan-huan-chuong-huu-nghi-lien-bang-nga/14.icd
+0 13 3330752984273596721 504931 0 0
+/category/dic/the-gioi-voi-viet-nam/25
+0 10 3904112035799905073 285547 4 1
+/details/dic/113/
+0 1 0 33811 1 1
+/details/dic/92/ho-so-lanh-dao-bo/dong-chi-vuong-duy-bien/7
+0 6 0 206441 3 4
+/details/dic/83/tin-su-kien
+0 1 0 31168 1 1
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13
+0 11 0 461505 3 3
+/page/ho_so_lanh_dao_cuc/3/
+0 2 0 59785 2 1
+/page/ho_so_lanh_dao_cuc/3/phong-ke-toan-tai-chinh.icd
+0 58 0 1728093 0 0
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/
+0 2 0 75836 2 1
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/
+0 1 0 32132 1 1
+/details/dic/114/
+0 1 0 37545 1 0
+/bootstrap/v2.2/bootstrap-modal.js
+0 1 0 6916 0 0
+/details/dic/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5
+0 3 0 96967 1 0
+/category/dic/van-hoa/11.icd
+0 77 0 2722229 0 0
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-vhttdl
+0 1 0 31659 0 1
+/page/ho_so_lanh_dao_cuc/6/phong-chau-a---thai-binh-duong
+0 8 0 258645 2 1
+/details/dic/91/du-lich
+0 1 0 38115 1 1
+/discussion_question/question_int
+0 1 0 1295 1 1
+/page/ho_so_lanh_dao_cuc/4/
+0 2 0 64291 2 2
+/video/dic/video-tham-khao/23.icd
+0 26 0 913998 0 0
+/share/core/css/fonts.css
+0 3 0 3384 0 0
+/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 32453 1 1
+/details/dic/115/
+0 1 0 37399 1 1
+/page/ho_so_lanh_dao_cuc/2/van-phong
+0 8 0 258076 5 3
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai
+0 1 29848896 29979 1 0
+/details/dic/2/tin-su-kien/department-of-international-cooperation/5
+0 3 0 86704 0 0
+/page/ho_so_lanh_dao_cuc/4/phong-chau-au
+0 5 0 159966 2 1
+/share/core/js/mimetypelist.js
+0 2 8804104499635237428 10416 0 0
+/page/ho_so_lanh_dao_cuc/5/
+0 2 0 57784 2 2
+/share/core/vendor/jquery/jquery.min.js
+0 4 3330185623472582913 374068 0 0
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien/7
+0 3 7814700146192547840 102832 1 0
+/share/core/vendor/backbone/backbone.js
+0 5 0 356345 0 0
+/details/dic/97/gia-dinh/
+0 1 87314628613322034 35916 1 1
+/details/dic/106/tin-su-kien/dem-van-hoa-asean-2015-tai-na-uy
+0 1 4051038653633331456 32478 1 1
+/details/dic/116/
+0 1 0 31980 1 1
+/details/dic/90/quan-he-quoc-te
+0 1 0 37066 1 1
+/details/dic/84/tin-noi-bat/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/contact
+0 3 0 109315 0 0
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12.icd
+0 13 0 476149 0 0
+/details/dic/91/tin-su-kien/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+0 8 0 355719 2 1
+/share/core/css/mobile.css
+0 3 0 10017 0 0
+/page/ho_so_lanh_dao_cuc/6/
+0 2 0 69268 2 2
+/details/dic/112/van-hoa/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11
+0 3 0 119939 1 1
+/details/dic/85/the-thao/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12.icd
+0 12 0 466216 0 0
+/lightbox/dist/simplelightbox.min.css
+0 7 0 20482 0 0
+/details/dic/113/tin-noi-bat/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/
+0 1 0 34341 1 0
+/category/dic/Quan-hệ-quốc-tế/14
+0 1 0 30290 0 0
+/category/dic/su-kien-cua-chung-toi/10.icd
+0 82 0 2297257 0 0
+/details/dic/86/tin-noi-bat/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12
+0 5 0 184525 4 1
+/home/operations/2021/03
+0 1 0 22418 1 1
+/home/operations/2021/05
+0 1 0 22539 1 1
+/details/dic/102/tin-su-kien
+0 1 0 31772 0 1
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11
+0 8 0 366018 3 2
+/home/operations/2021/06
+0 3 0 67195 3 3
+/page/ho_so_lanh_dao_cuc/7/
+0 2 0 62704 2 2
+/home/operations/2021/07
+0 1 0 22421 1 1
+/home/operations/2021/08
+0 3 0 67815 3 2
+/details/dic/87/the-thao/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/
+0 1 0 36760 1 1
+/details/dic/113/tin-su-kien/
+0 1 0 33871 1 1
+/details/dic/89/su-kien-trong-nuoc
+0 1 0 32729 1 1
+/details/dic/80/tin-su-kien/
+0 1 0 35750 1 1
+/details/dic/88/tin-su-kien
+0 1 0 35948 1 1
+/share/core/js/config.js
+0 3 0 5790 0 0
+/category/dic/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/27
+0 2 0 75071 1 1
+/share/core/css/styles.css
+0 3 0 90309 0 0
+/details/dic/113/tin-su-kien
+0 1 0 33870 1 0
+/details/dic/118/tin-su-kien/
+0 1 0 30231 1 0
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+0 2 0 64398 2 1
+/details/dic/85/tin-su-kien/
+0 1 0 33639 1 1
+/details/dic/116/tin-noi-bat/
+0 1 0 32040 1 1
+/video/dic/Video-Tham-KhÃ¡ÂºÂ£o/23
+0 4 0 141586 0 0
+/details/dic/99/tin-su-kien
+0 1 0 32228 1 1
+/share/core/js/l10n.js
+0 3 0 23370 0 0
+/details/dic/115/van-hoa/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+0 6 0 274839 0 0
+/calendar/details/lien-hoan-phim-nhat-ban-2015-sac-mau-tinh-yeu/15.icd
+0 14 0 452705 0 0
+/bootstrap/v2.2/bootstrap-scrollspy.js
+0 1 0 4915 0 0
+/video/dic/video-chung-toi/22
+0 19 0 646922 11 9
+/details/dic/112/tin-noi-bat/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/
+0 1 0 32141 0 1
+/page/ho_so_lanh_dao_cuc/1/lanh-dao-cuc-hop-tac-quoc-te
+0 9 0 275481 5 5
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+0 15 0 547181 7 2
+/details/dic/104/tin-su-kien/day-manh-quang-ba-du-lich-viet-nam-tai-thi-truong-trung-quoc/27
+0 5 0 198351 0 0
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/
+0 2 0 65675 2 2
+/category/dic/cuc-hop-tac-quoc-te/5.icd
+0 7 0 204889 0 0
+/details/dic/100/su-kien-quoc-te
+0 1 0 36004 1 1
+/details/dic/112/tin-su-kien/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong
+0 1 29853120 32172 1 1
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/22.icd
+0 12 4051041745184489472 340995 0 0
+/details/dic/88/tin-noi-bat/bo-truong-hoang-tuan-anh-nhan-huan-chuong-huu-nghi-lien-bang-nga/14
+0 4 8314877464660672512 156376 0 1
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+0 48 1444845292 1580590 0 0
+/details/dic/99/tin-noi-bat/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12.icd
+0 12 0 449645 0 0
+/details/dic/98/tin-noi-bat/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+0 2 28278 82994 1 0
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano
+0 1 0 37970 1 1
+/bootstrap/v2.2/bootstrap-collapse.js
+0 1 0 4995 0 0
+/category/dic/su-kien-cua-chung-toi/10
+0 8 0 224619 3 1
+/page/gioi_thieu/23/co-cau-bo-van-hoa-du-lich-the-thao/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6
+0 2 0 147251 1 1
+/details/dic/85/tin-su-kien/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12.icd
+0 13 0 505552 0 0
+/robots.txt
+0 417 0 121623 0 0
+/details/dic/23/co-cau-bo-van-hoa-the-thao-va-du-lich/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6.icd
+0 21 0 1481515 0 0
+/details/dic/106/tin-su-kien/dem-van-hoa-asean-2015-tai-na-uy/27.icd
+0 8 0 308304 0 0
+/details/dic/107/tin-su-kien
+0 1 0 32995 1 0
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/
+0 2 0 69362 2 1
+/details/dic/87/tin-su-kien/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/
+0 2 0 73447 1 1
+/bootstrap/v2.2/bootstrap.min.js
+0 305 0 3185338 0 0
+/details/dic/97/tin-noi-bat/y-nghia-ngay-gia-dinh-viet-nam-286/20
+0 4 0 153331 0 1
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai/
+0 1 0 29873 1 1
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam/13.icd
+0 13 0 572903 0 0
+/details/dic/79/tin-su-kien/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/
+0 2 0 77994 1 2
+/home/operations/2011/12
+0 1 29861664 22588 1 0
+/details/video/6/video-tham-khao/vietnam-timeless-charm/23.icd
+0 11 0 299186 0 0
+/details/dic/118/tin-su-kien
+0 1 0 30231 0 1
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+0 2 0 64396 2 1
+/details/dic/96/tin-noi-bat/bua-com-gia-dinh/20
+0 4 0 141359 3 0
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh/7.icd
+0 5 0 172918 0 0
+/details/dic/101/tin-su-kien/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+0 5 0 203389 1 0
+/details/dic/86/the-thao/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12.icd
+0 14 0 512935 0 0
+/details/dic/105/tin-su-kien/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap/27
+0 5 0 208790 0 0
+/share/core/vendor/moment/min/moment-with-locales.js
+0 3 0 1082763 0 0
+/details/dic/85/the-thao/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam
+0 2 0 67636 2 2
+/home/operations/2023/02
+0 2 0 44669 2 1
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12
+0 11 0 402182 1 2
+/home/operations/2023/04
+0 2 0 44807 2 2
+/home/operations/2023/05
+0 2 0 44882 2 2
+/home/operations/2023/06
+0 2 0 44809 2 2
+/home/operations/2023/07
+0 2 29847840 45279 2 0
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/
+0 1 29824208 32270 0 1
+/details/dic/89/su-kien-trong-nuoc/to-chuc-festival-hue-lan-thu-ix---2016/
+0 1 0 32924 1 1
+/details/dic/85/the-thao/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12
+0 6 0 233306 0 1
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/
+0 1 0 38961 1 1
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11.icd
+0 14 0 641896 0 0
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+0 50 0 1990400 0 0
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/
+0 2 0 64160 2 2
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016
+0 1 29851472 36528 1 0
+/favicon.ico
+0 52 0 396760 0 0
+/details/dic/103/tin-su-kien/quang-ba-du-lich-viet-nam-tai-singapore/27.icd
+0 9 0 347086 0 0
+/category/dic/quan-he-quoc-te/14.icd
+0 61 0 1826334 0 0
+/details/dic/99/tin-su-kien/
+0 1 0 32227 1 1
+/share/core/js/compatibility.js
+0 3 0 11943 0 0
+/share/core/vendor/blueimp-md5/js/md5.js
+0 3 0 30162 0 0
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12.icd
+0 23 0 861406 0 0
+/share/core/js/placeholders.js
+0 3 0 59070 0 0
+/gallery
+0 84 0 3185399 45 42
+/details/dic/86/the-thao/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao
+0 1 3688783450157875200 31747 1 1
+/details/dic/105/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap/27
+0 3 0 125607 1 0
+/details/dic/80/
+0 1 6158107191148687922 35690 1 1
+/details/dic/90/tin-su-kien/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/14
+0 8 3545138853934805294 318996 2 1
+/details/dic/100/su-kien-quoc-te/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+0 5 8515853249862004345 182070 0 0
+/details/dic/101/quan-he-quoc-te/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14.icd
+0 10 3256433699229936999 406616 0 0
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam/13
+0 10 0 440787 2 2
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11.icd
+0 18 0 791764 0 0
+/category/dic/van-hoa/11
+0 19 0 671897 8 7
+/details/dic/82/tin-su-kien
+0 1 0 37845 1 1
+/details/dic/105/tin-su-kien/
+0 1 0 35691 1 1
+/details/dic/85/tin-su-kien/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam
+0 1 29850816 33916 1 1
+/category/dic/the-thao/12
+0 18 0 638100 8 7
+/home/
+0 1 0 46235 1 1
+/share/core/vendor/jquery-ui/ui/jquery-ui.custom.js
+0 3 0 1299147 0 0
+/details/dic/100/tin-su-kien/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+0 8 0 291609 4 3
+/share/core/js/jquery.avatar.js
+0 2 0 7922 0 0
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh/7
+0 4 0 139049 1 1
+/details/dic/79
+0 1 0 38676 1 1
+/bootstrap/v2.2/bootstrap-popover.js
+0 1 0 3374 0 0
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+0 63 0 2406141 0 0
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien/
+0 1 0 29844 1 1
+/category/dic/the-thao/12.icd
+0 35 0 1238794 0 0
+/category/dic/tin-anh/16.icd
+0 34 0 1004212 0 0
+/share/core/vendor/underscore/underscore.js
+0 3 0 160005 0 0
+/bootstrap/v2.2/bootstrap-tab.js
+0 1 0 3755 0 0
+/details/dic/80
+0 1 29848528 35826 0 1
+/details/dic/82
+0 1 29849584 37921 0 0
+/details/dic/83
+0 1 29848304 31244 1 0
+/details/dic/82/
+0 1 0 37785 1 1
+/details/dic/84
+0 1 0 35703 1 0
+/details/dic/85
+0 1 0 33579 1 1
+/details/dic/86
+0 1 0 31312 1 1
+/details/dic/87
+0 1 0 36385 1 0
+/details/dic/88
+0 1 29847968 36024 1 0
+/home/operations/2013/01
+0 3 0 67252 3 3
+/details/dic/89
+0 1 0 32634 1 1
+/home/operations/2013/02
+0 3 0 66930 3 1
+/home/operations/2013/03
+0 2 0 44756 1 0
+/home/operations/2013/04
+0 1 29861296 22546 1 0
+/home/operations/2013/07
+0 1 29857840 22448 1 0
+/details/dic/1/tin-su-kien/cuc-hop-tac-quoc-te/5.icd
+0 3 0 96882 0 0
+/home/operations/2013/08
+0 4 0 89709 3 0
+/home/operations/2013/09
+0 7 0 157225 4 1
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/
+0 1 0 38110 1 1
+/details/dic/101/tin-su-kien/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14.icd
+0 13 0 529040 0 0
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11.icd
+0 53 0 2392268 0 0
+/details/dic/90
+0 1 0 36987 1 1
+/details/dic/91
+0 1 0 38076 1 1
+/details/dic/83/
+0 1 0 31107 1 1
+/details/dic/2/tin-su-kien/department-of-international-cooperation/5.icd
+0 5 0 145235 0 0
+/details/dic/95
+0 1 29848192 35468 1 0
+/category/dic/Văn-hoá/11
+0 1 0 35663 0 0
+/details/dic/96
+0 1 0 32908 1 1
+/details/dic/97
+0 1 0 35871 1 1
+/details/dic/98
+0 1 0 36106 1 1
+/home/operations/2013/10
+0 9 0 201369 3 2
+/home/operations/2013/11
+0 8 0 179368 2 4
+/details/dic/99
+0 1 0 32168 1 0
+/home/operations/2013/12
+0 9 0 202717 1 1
+/calendar/dic/lien-hoan-phim-nhat-ban-2015-sac-mau-tinh-yeu/2015-11-06
+0 9 0 268813 5 2
+/home/ads
+0 1 0 1497 1 0
+/details/dic/100/su-kien-quoc-te/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+0 4 0 145694 2 2
+/details/dic/23/co-cau-bo-van-hoa-the-thao-va-du-lich/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6
+0 10 0 740058 8 7
+/details/dic/106/tin-su-kien/dem-van-hoa-asean-2015-tai-na-uy/27
+0 5 0 191831 0 0
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/
+0 1 29829600 32113 1 0
+/details/dic/115/tin-noi-bat/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+0 50 0 2280929 0 0
+/category/dic/co-cau-bo-van-hoa-the-thao-va-du-lich/6.icd
+0 7 0 199544 0 0
+/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/
+0 2 0 71841 2 2
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien/7.icd
+0 4 0 137062 0 0
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/
+0 1 0 36481 1 1
+/page/ho_so_lanh_dao_cuc/3/phong-ke-toan-tai-chinh
+0 7 0 208478 3 4
+/details/dic/88/tin-su-kien/bo-truong-hoang-tuan-anh-nhan-huan-chuong-huu-nghi-lien-bang-nga/
+0 1 0 36272 0 1
+/details/dic/84/
+0 1 0 35702 1 1
+/details/dic/86/the-thao/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/
+0 1 1953722216 31747 1 1
+/details/dic/107/tin-su-kien/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27
+0 6 1953722216 234890 0 0
+/calendar/details/ngay-quoc-gia-viet-nam/12
+0 3 127978989055073 93771 2 0
+/calendar/dic/lien-hoan-phim-nhat-ban-2015-sac-mau-tinh-yeu/2015-11-06.icd
+0 11 21185 329700 0 0
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai/
+0 1 7631727 29942 1 1
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai/7
+0 4 3330188922108587569 137429 1 0
+/details/dic/98/the-thao/
+0 1 0 36152 0 1
+/details/dic/91/tin-su-kien/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/
+0 2 0 77016 2 2
+/home/operations/2025/04
+0 1 0 22305 1 1
+/home/operations/2025/06
+0 1 0 22424 1 1
+/home/operations/2025/07
+0 1 0 22341 1 1
+/home/operations/2025/08
+0 1 0 22340 1 0
+/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/dem-van-hoa-asean-2015-tai-na-uy/27
+0 5 0 193086 2 2
+/details/dic/101/tin-su-kien
+0 1 0 37804 1 0
+/details/dic/104/tin-su-kien/day-manh-quang-ba-du-lich-viet-nam-tai-thi-truong-trung-quoc
+0 1 0 33895 1 1
+/details/dic/87/tin-su-kien
+0 1 0 36445 1 1
+/details/dic/101/quan-he-quoc-te/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai
+0 1 0 38129 1 0
+/category/dic/tin-anh/16
+0 3 0 87695 2 1
+/share/core/vendor/bootstrap/js/tooltip.js
+0 3 0 50283 0 0
+/details/dic/85/
+0 1 0 33579 1 1
+/home/operations/2025/10
+0 1 0 22343 1 0
+/home/operations/2025/12
+0 1 0 22347 1 1
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+0 50 0 1990590 0 0
+/share/core/js/apps.js
+0 2 0 6498 0 0
+/details/dic/92/tin-su-kien/dong-chi-vuong-duy-bien
+0 1 29849440 30074 1 1
+/category/dic/su-kien-quoc-te/10.icd
+0 21 0 597050 0 0
+/details/dic/112/tin-su-kien
+0 1 0 31650 1 1
+/details/dic/115/tin-noi-bat
+0 1 0 37459 1 1
+/images/icon_home.png
+1 242 0 1394828 0 0
+/details/dic/114/tin-su-kien/
+0 1 0 37605 1 0
+/details/dic/104/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 33730 0 1
+/details/dic/98/tin-su-kien
+0 1 0 36166 1 1
+/share/core/css/fixes.css
+0 3 0 12396 0 0
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+0 2 0 64533 2 1
+/details/dic/112/tin-noi-bat/
+0 1 0 31650 1 1
+/category/dic/cuc-hop-tac-quoc-te/5
+0 2 0 58125 1 1
+/page/gioi_thieu/23/co-cau-bo-van-hoa-du-lich-the-thao/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/
+0 1 0 74797 1 1
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12.icd
+0 13 0 537462 0 0
+/details/dic/86/
+0 1 0 31312 1 1
+/share/core/css/icons.css
+0 3 0 16839 0 0
+/images/favicon.ico
+0 110 0 39569726 0 0
+/details/dic/86/tin-su-kien/
+0 1 0 31373 1 1
+/details/dic/117/tin-noi-bat/
+0 1 29827216 31722 1 0
+/details/dic/96/tin-noi-bat/bua-com-gia-dinh/20.icd
+0 1 29860576 34956 0 0
+/category/dic/tin-anh/31
+0 9 0 247717 3 4
+/bootstrap/v2.2/bootstrap-carousel.js
+0 1 0 6317 0 0
+/calendar/details/hoi-thao-tham-van-va-tap-huan-nang-cao-nang-luc-thuc-hien-cong-uoc-unesco-2005-ve-bao-ve-va-phat-huy-su-da-dang-cac-bieu-dat-van-hoa/16
+0 2 0 67978 0 0
+/page/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi.icd
+0 53 0 1538000 0 0
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11.icd
+0 10 0 468933 0 0
+/details/dic/100/su-kien-quoc-te/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015
+0 1 0 36348 0 1
+/share/
+0 29 0 334963 39 33
+/details/dic/102/tin-su-kien/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap/27
+0 5 0 189146 0 0
+/details/dic/87/
+0 1 0 36386 1 1
+/calendar/dic/hoi-thao-tham-van-va-tap-huan-nang-cao-nang-luc-thuc-hien-cong-uoc-unesco-2005-ve-bao-ve-va-phat-huy-su-da-dang-cac-bieu-dat-van-hoa/2015-11-23.icd
+0 7 0 226190 0 0
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+0 15 0 573065 0 0
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+0 2 0 64356 2 1
+/details/dic/102/tin-su-kien/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap/27.icd
+0 8 0 304008 0 0
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11.icd
+0 14 0 589440 0 0
+/details/dic/102/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap/
+0 1 1431970249 32115 1 1
+/share/core/vendor/handlebars/handlebars.js
+0 3 3472889072994889265 270252 0 0
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12.icd
+0 14 3328218614266345777 578183 0 0
+/details/dic/88/
+0 1 7165064279425548288 35888 1 1
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/
+0 2 4121970356304164401 64803 2 2
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai
+0 1 29829920 29871 1 1
+/home/operations/2015/01
+0 1 7089903255335875382 22658 0 0
+/home/operations/2015/02
+0 2 0 44819 1 0
+/category/dic/gia-dinh/20
+0 5 0 148742 2 2
+/home/operations/2015/03
+0 1 29822864 22457 1 0
+/home/operations/2015/04
+0 4 0 89526 1 1
+/home/operations/2015/05
+0 5 0 112486 1 1
+/home/operations/2015/06
+0 3 0 67346 1 1
+/home/operations/2015/07
+0 4 0 89834 0 1
+/home/operations/2015/08
+0 6 0 135356 2 1
+/home/operations/2015/09
+0 13 0 290547 4 2
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich.icd
+0 61 0 1917838 0 0
+/details/dic/112/van-hoa/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11.icd
+0 14 0 558557 0 0
+/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13
+0 7 0 293841 3 1
+/details/dic/106/tin-su-kien
+0 1 0 32313 0 1
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5
+0 3 0 92715 1 1
+/details/dic/89/
+0 1 0 32634 1 1
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh/7
+0 4 0 139198 2 2
+/details/dic/85/the-thao
+0 1 0 33624 1 0
+/details/dic/80/van-hoa/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+0 1 0 44322 0 0
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam/13
+0 9 0 336747 2 1
+/home/operations/2015/10
+0 13 0 293653 7 3
+/home/operations/2015/11
+0 18 0 416937 2 2
+/home/operations/2015/12
+0 49 0 1093129 25 29
+/details/dic/96/tin-su-kien/bua-com-gia-dinh
+0 1 29848640 33085 1 1
+/images/news--icons-sprite.png
+1 109 0 250296 0 0
+/video/dic/video-gioi-thieu/23.icd
+0 2 0 71075 0 0
+/details/dic/90/quan-he-quoc-te/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/
+0 1 0 37357 1 1
+/details/dic/117/tin-su-kien
+0 1 0 31722 1 1
+/share/core/js/js.js
+0 3 0 159036 0 0
+/page/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi
+0 5 0 143970 2 1
+/details/dic/92/ho-so-lanh-dao-bo/dong-chi-vuong-duy-bien/
+0 1 0 29966 1 1
+/details/dic/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5.icd
+0 4 0 129202 0 0
+/home
+0 11 0 509241 3 2
+/discussion_question
+0 20 0 621627 7 6
+/bootstrap/v2.2/bootstrap-typeahead.js
+0 1 0 8580 0 0
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore/27
+0 6 0 231942 3 2
+/details/dic/103/tin-su-kien/quang-ba-du-lich-viet-nam-tai-singapore/27
+0 6 0 230380 1 0
+/details/dic/90/tin-su-kien/
+0 1 0 37046 1 1
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+0 8 0 336445 2 3
+/page/ho_so_lanh_dao_cuc/2/van-phong.icd
+0 61 0 1977538 0 0
+/video/dic/video-chung-toi/22.icd
+0 33 0 1119299 0 0
+/details/dic/115/van-hoa
+0 1 0 37438 1 1
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore/27.icd
+0 11 0 424830 0 0
+/home/operations/2012/
+0 2 0 46007 2 2
+/details/dic/91/tin-noi-bat/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+0 2 0 89035 0 0
+/details/dic/101/quan-he-quoc-te/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+0 3 0 121738 1 1
+/images/ar3.png
+1 19 29858896 6742 0 0
+/details/dic/92/tin-su-kien/dong-chi-vuong-duy-bien/7.icd
+0 6 0 206896 0 0
+/details/dic/95/tin-su-kien/
+0 1 0 35392 1 1
+/details/dic/91/tin-noi-bat/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13.icd
+0 2 0 88483 0 0
+/details/dic/91/du-lich/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13.icd
+0 10 0 444173 0 0
+/home/operations/2013/
+0 2 0 45770 2 2
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015
+0 2 0 77819 2 2
+/details/dic/101/tin-su-kien/
+0 1 0 37804 1 1
+/details/dic/87/tin-su-kien/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/12.icd
+0 16 3544615481228918784 667068 0 0
+/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/dem-van-hoa-asean-2015-tai-na-uy
+0 1 3976174006406545408 32616 1 0
+/details/dic/103/tin-su-kien/quang-ba-du-lich-viet-nam-tai-singapore
+0 1 4121125931424219392 32535 1 1
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12.icd
+0 11 128039139175521 412027 0 0
+/details/dic/115/van-hoa/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11
+0 8 4049068337386291456 367841 5 4
+/details/dic/97/tin-su-kien/y-nghia-ngay-gia-dinh-viet-nam-286/20
+0 8 3344317930982499177 306328 0 0
+/details/video/6/video-gioi-thieu/vietnam-timeless-charm/23
+0 1 0 27021 0 0
+/home/operations/2014/
+0 1 0 22925 1 1
+/details/dic/81/van-hoa/quyet-dinh-so-366qd-bvhttdl-ngay-2502-bao-tang-lich-su-quoc-gia-to-chuc-trung-bay-trien-lam-van-hoa-dong-son-tai-malaysia/11.icd
+0 1 0 36409 0 0
+/page/ho_so_lanh_dao_cuc
+0 1 0 28283 1 1
+/details/dic/106/tin-su-kien/
+0 1 0 32311 1 1
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh
+0 1 0 30379 0 0
+/details/dic/107/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 33135 1 1
+/details/dic/85/the-thao/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/
+0 1 0 33869 1 1
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+0 5 0 234599 4 2
+/details/dic/83/du-lich/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam/13.icd
+0 1 0 37768 0 0
+/share/core/vendor/snapjs/dist/latest/snap.js
+0 2 0 65558 0 0
+/home/operations/2017/01
+0 4 0 89908 1 1
+/home/operations/2017/02
+0 5 0 111597 1 1
+/home/operations/2015/
+0 2 0 47167 2 2
+/home/operations/2017/03
+0 3 0 67480 0 1
+/home/operations/2017/04
+0 7 0 156904 2 1
+/home/operations/2017/05
+0 5 0 112206 1 1
+/home/operations/2017/06
+0 5 0 111993 0 2
+/details/video/3/video-tham-khao/welcome-to-vietnam-clip-quang-ba-du-lich-viet-nam/
+0 1 0 28966 1 1
+/home/operations/2017/07
+0 10 0 226197 1 0
+/home/operations/2017/08
+0 6 0 134384 1 0
+/home/operations/2017/09
+0 8 0 179544 1 3
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh/
+0 1 0 30349 1 0
+/category/dic/quan-he-quoc-te/14
+0 12 0 358897 3 2
+/bootstrap/v2.2/jquery.min.js
+0 280 0 8403986 0 0
+/details/dic/96/gia-dinh/bua-com-gia-dinh/20
+0 4 0 141508 2 1
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/
+0 1 0 32102 1 1
+/details/dic/90/quan-he-quoc-te/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam
+0 1 0 37356 1 1
+/details/dic/88/tin-su-kien/bo-truong-hoang-tuan-anh-nhan-huan-chuong-huu-nghi-lien-bang-nga/14
+0 8 0 309744 2 1
+/home/operations/2017/10
+0 8 0 179784 1 1
+/home/operations/2017/11
+0 3 0 67611 2 0
+/home/operations/2017/12
+0 6 0 134174 1 1
+/discussion_question.icd
+0 66 0 2038090 0 0
+/home.icd
+0 242 0 11173476 0 0
+/home/operations/2016/
+0 2 0 45648 2 2
+/images/ar2.png
+1 47 29857968 10826 0 0
+/details/dic/104/tin-su-kien/day-manh-quang-ba-du-lich-viet-nam-tai-thi-truong-trung-quoc/27.icd
+0 9 0 358543 0 0
+/details/video/3/video-tham-khao
+0 1 0 28717 1 1
+/details/dic/87/tin-su-kien/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/12
+0 9 0 374844 1 1
+/details/dic/98/tin-noi-bat/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12.icd
+0 3 0 124622 0 0
+/home/operations/2017/
+0 1 0 22963 1 1
+/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/dem-van-hoa-asean-2015-tai-na-uy/
+0 1 0 32617 1 1
+/details/dic/87/tin-su-kien/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28
+0 1 29851280 36807 1 1
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+0 46 0 1672701 0 0
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+0 17 0 679412 11 8
+/bootstrap/v2.2/bootstrap-tooltip.js
+0 1 0 10171 0 0
+/details/dic/100/tin-su-kien
+0 1 0 35983 0 1
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai
+0 1 0 38109 1 1
+/details/dic/86/tin-su-kien
+0 1 0 31372 1 1
+/details/dic/96/gia-dinh/bua-com-gia-dinh/
+0 2 0 65973 1 1
+/category/dic/du-lich/13.icd
+0 72 0 2473249 0 0
+/details/dic/90/tin-su-kien/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/14.icd
+0 11 0 438870 0 0
+/home/operations/2018/
+0 1 5571359 22846 1 1
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai/7.icd
+0 6 3977576970412568878 206933 0 0
+/category/dic/gia-dinh/20.icd
+0 13 3904953149310435584 386790 0 0
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13.icd
+0 17 128039139175521 713804 0 0
+/details/dic/22/tin-su-kien/dong-chi-dang-thi-bich-lien
+0 1 29849696 29950 1 0
+/details/video/6/video-tham-khao/vietnam-timeless-charm
+0 2 8317981851476258668 53964 2 2
+/details/dic/97/tin-su-kien
+0 1 4107619517703533621 35931 0 0
+/video/dic/Video-ChÃÂºng-TÃÂ´i/22
+0 4 3689061842223771186 137277 0 1
+/details/dic/86/the-thao
+0 1 0 31357 0 1
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai/
+0 1 0 29842 1 0
+/home/operations/2019/
+0 1 29817056 22846 1 0
+/bootstrap/v2.2/bootstrap-button.js
+0 1 0 3100 0 0
+/details/dic/101/quan-he-quoc-te
+0 1 0 37823 1 0
+/category/dic/co-cau-bo-van-hoa-du-lich-the-thao/6
+0 1 0 28834 0 0
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia
+0 2 0 69362 2 2
+/details/dic/89/su-kien-trong-nuoc/to-chuc-festival-hue-lan-thu-ix---2016
+0 1 0 32924 1 1
+/details/dic/90/quan-he-quoc-te/bo-truong-hoang-tuan-anh-tiep-dai-su-hungary-tai-viet-nam/14
+0 6 0 239116 1 1
+/details/dic/115/tin-su-kien/
+0 1 0 37459 0 1
+/details/dic/82/tin-su-kien/
+0 1 0 37845 1 1
+/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi
+0 2 0 71840 2 2
+/details/dic/113/tin-noi-bat/
+0 1 0 33870 1 1
+/share/core/vendor/jquery-ui/themes/base/jquery-ui.css
+0 3 0 98034 0 0
+/home/operations/2012
+0 1 29860944 23204 1 0
+/home/operations/2013
+0 2 0 45770 2 2
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+0 11 0 455309 5 3
+/share/core/css/jquery.ocdialog.css
+0 3 0 4626 0 0
+/home/operations/2015
+0 2 0 47169 2 1
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+0 14 0 522697 6 5
+/home/operations/2016
+0 2 0 45649 1 2
+/details/dic/105/tin-su-kien/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap/27.icd
+0 10 0 419007 0 0
+/home/operations/2018
+0 1 0 22844 1 1
+/home/operations/2019
+0 1 29816832 22845 1 0
+/details/dic/100/
+0 1 0 35923 1 1
+/details/dic/95/tin-su-kien/net-dep-truyen-thong-gia-dinh-viet-nam/20.icd
+0 19 0 719859 0 0
+/details/dic/91/du-lich/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+0 7 0 311057 1 2
+/details/dic/87/tin-su-kien/
+0 1 0 36446 1 1
+/details/dic/118/tin-noi-bat/
+0 1 29827344 30232 1 1
+/details/dic/110/tin-anh
+0 1 0 34523 1 1
+/home/operations/2021
+0 1 0 22925 1 1
+/category/dic/viet-nam-cultural-centers-abroad/27.icd
+0 64 0 2409910 0 0
+/home/operations/2019/01
+0 1 0 22342 1 0
+/home/operations/2019/02
+0 1 29820944 22234 1 1
+/home/operations/2019/03
+0 1 29823232 22339 0 0
+/details/dic/101/
+0 1 0 37744 1 1
+/home/operations/2019/07
+0 1 0 22421 1 1
+/calendar/dic/ngay-quoc-gia-viet-nam/2015-10-17
+0 8 0 233823 1 1
+/pop/jquery.mobile-1.4.5.min.css
+0 8 0 1661792 0 0
+/details/dic/100/su-kien-quoc-te/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/
+0 1 0 36348 0 1
+/details/dic/84/du-lich
+0 1 0 35743 1 1
+/details/dic/105/tin-su-kien
+0 1 0 35691 1 1
+/details/dic/102/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/cuoc-thi-viet-tim-hieu-viet-nam-tai-phap/27.icd
+0 11 0 418793 0 0
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+0 17 0 678416 0 0
+/home/operations/2019/11
+0 1 29822992 22314 1 0
+/calendar/details/ngay-quoc-gia-viet-nam/12.icd
+0 5 0 155183 0 0
+/details/dic/102/
+0 1 0 31711 1 1
+/calendar/dic/ngay-quoc-gia-viet-nam/2015-10-17.icd
+0 11 0 320513 0 0
+/home/operations/2020/01
+0 1 29823360 22341 0 1
+/share/core/js/mimetype.js
+0 2 0 7536 0 0
+/details/dic/85/tin-su-kien/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/
+0 2 0 67664 1 1
+/home/operations/2020/05
+0 1 0 22421 1 1
+/details/dic/102/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 31911 1 1
+/home/operations/2020/07
+0 1 0 22421 1 1
+/details/dic/116/tin-su-kien
+0 1 0 32040 1 0
+/details/dic/95/tin-su-kien/net-dep-truyen-thong-gia-dinh-viet-nam
+0 1 0 35619 1 1
+/video/dic/Video-Chúng-Tôi/22
+0 3 0 102609 1 0
+/home/operations/2020/09
+0 1 0 22387 1 1
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/31
+0 14 0 488299 5 5
+/pop/jquery.mobile-1.4.5.min.js
+0 1 0 200409 0 0
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+0 12 29797 551073 7 4
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore
+0 1 7239214 32675 1 1
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/22
+0 11 335566619948338 313023 5 1
+/bootstrap/v2.2/bootstrap-responsive.css
+0 310 6957499793664259886 2135988 0 0
+/details/dic/103/
+0 1 7017575154020515840 32275 1 1
+/details/video/4/video-chung-toi/expo-2015-my-vietnam
+0 2 7165064279425548288 56432 1 2
+/video/dic/Video-Giới-Thiệu/23
+0 1 0 35655 0 0
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/
+0 1 29182816 30586 1 1
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/
+0 1 29828896 30566 1 0
+/category/dic/su-kien-trong-nuoc/9.icd
+0 23 0 452997 0 0
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+0 1 29829392 32112 0 1
+/details/dic/104/
+0 1 0 33529 1 1
+/details/dic/119/the-gioi-noi-ve-viet-nam/viet-nam-la-diem-sang-giua-vong-xoay-bat-on-cua-the-gioi/25
+0 4 0 130563 0 0
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+0 10 0 439419 6 3
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/
+0 1 0 36377 1 1
+/details/dic/87/the-thao/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28/12
+0 6 0 250312 1 1
+/details/dic/91/tin-su-kien/
+0 1 0 38135 1 1
+/category/dic/Gia-đình/20
+0 1 0 30126 0 0
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+0 1 29851776 30619 1 0
+/css/system.css
+0 313 0 2116564 0 0
+/images/icon_en.png
+1 237 0 1348733 0 0
+/details/dic/100/tin-su-kien/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/
+0 1 0 36329 1 1
+/details/dic/105/
+0 1 0 35631 1 1
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016
+0 2 0 64968 1 1
+/details/dic/119/the-gioi-noi-ve-viet-nam/viet-nam-la-diem-sang-giua-vong-xoay-bat-on-cua-the-gioi/25.icd
+0 11 0 357974 0 0
+/details/dic/101/quan-he-quoc-te/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/
+0 1 0 38128 0 1
+/contact/contact_int
+0 1 0 1295 1 1
+/details/dic/80/tin-su-kien
+0 1 0 35750 1 0
+/share/core/js/octemplate.js
+0 3 0 10488 0 0
+/details/dic/96/tin-su-kien/
+0 1 0 32969 1 1
+/details/dic/91/tin-su-kien/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi
+0 1 29852688 38592 1 1
+/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/
+0 2 0 72079 1 2
+/details/dic/106/
+0 1 0 32252 1 0
+/calendar/details/lien-hoan-phim-nhat-ban-2015-sac-mau-tinh-yeu/15
+0 5 0 161315 2 1
+/share/core/js/oc-requesttoken.js
+0 3 0 1863 0 0
+/category/dic/ho-so-lanh-dao-bo/7.icd
+0 54 0 1789687 0 0
+/details/video/3/video-tham-khao/welcome-to-vietnam-clip-quang-ba-du-lich-viet-nam/23.icd
+0 10 0 290768 0 0
+/details/video/5/video-chung-toi/phong-su-ngay-quoc-gia-viet-nam-tai-expo-2015-milano-italia/22.icd
+0 9 0 251950 0 0
+/details/dic/92/ho-so-lanh-dao-bo/dong-chi-vuong-duy-bien/7.icd
+0 5 0 171899 0 0
+/safe/
+0 18 0 4823 0 0
+/details/dic/91/tin-su-kien
+0 1 0 38136 1 1
+/details/dic/99/tin-noi-bat/
+0 1 0 32228 1 1
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5.icd
+0 112 0 3416367 0 0
+/details/dic/102/tin-su-kien/
+0 1 0 31771 1 0
+/details/dic/113/tin-noi-bat/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11.icd
+0 9 0 378857 0 0
+/details/dic/89/su-kien-trong-nuoc/to-chuc-festival-hue-lan-thu-ix---2016/9
+0 6 0 197729 1 1
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/
+0 2 0 68576 1 2
+/details/dic/107/
+0 1 0 32935 1 0
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+0 11 0 439207 5 4
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+0 6 0 274554 2 2
+/details/dic/99/the-thao/
+0 1 0 32213 1 0
+/calendar/dic/hoi-thao-tham-van-va-tap-huan-nang-cao-nang-luc-thuc-hien-cong-uoc-unesco-2005-ve-bao-ve-va-phat-huy-su-da-dang-cac-bieu-dat-van-hoa/2015-11-23
+0 5 0 160947 2 0
+/details/dic/107/tin-su-kien/
+0 1 0 32995 1 1
+/details/dic/87/the-thao/vinh-danh-van-dong-vien-huan-luyen-vien-xuat-sac-tai-sea-games-28
+0 1 0 36760 1 0
+/details/dic/85/tin-su-kien/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12
+0 11 0 426852 1 1
+/category/dic/Cục-hợp-tác-quốc-tế/5
+0 1 0 29743 0 0
+/share/core/css/header.css
+0 3 0 23187 0 0
+/details/dic/87/the-thao
+0 1 0 36429 1 1
+/details/dic/113/van-hoa
+0 1 3472330486728371766 33850 1 0
+/category/dic/co-cau-bo-van-hoa-du-lich-the-thao/6.icd
+0 2 3906642024940319032 57100 0 0
+/details/dic/112/tin-su-kien/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11
+0 8 32778019628933475 318669 2 2
+/details/dic/113/van-hoa/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+0 5 2962657176007553582 210831 1 0
+/category/dic/Hồ-sơ-lãnh-đạo-Bộ/7
+0 1 2297606572797537845 33845 0 0
+/details/dic/79/tin-su-kien/
+0 1 0 38737 1 1
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+0 16 29065936 611926 0 0
+/home/operations/2022/04
+0 2 0 44808 2 2
+/home/operations/2022/06
+0 2 0 44809 1 2
+/home/operations/2022/07
+0 2 0 44882 2 2
+/calendar/details/hoi-thao-tham-van-va-tap-huan-nang-cao-nang-luc-thuc-hien-cong-uoc-unesco-2005-ve-bao-ve-va-phat-huy-su-da-dang-cac-bieu-dat-van-hoa/16.icd
+0 11 0 375982 0 0
+/home/operations/2022/08
+0 2 0 44881 2 2
+/category/dic/Du-lịch/13
+0 1 0 34796 0 0
+/details/dic/99/tin-noi-bat/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016
+0 1 0 32469 1 1
+/category/dic/Sự-kiện-trong-nước/9
+0 2 0 40021 0 0
+/details/video/3/
+0 1 0 28636 0 1
+/details/video/5/video-chung-toi
+0 1 0 27591 1 1
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+0 56 0 1982476 0 0
+/home/operations/2022/10
+0 2 0 45122 2 2
+/category/dic/ho-so-lanh-dao-bo/7
+0 4 0 132299 4 3
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+0 13 0 474882 0 0
+/home/operations/2022/12
+0 2 0 44895 2 2
+/page/ho_so_lanh_dao_cuc/1
+0 2 0 61097 1 1
+/page/ho_so_lanh_dao_cuc/2
+0 2 0 64807 2 2
+/page/ho_so_lanh_dao_cuc/3
+0 2 0 59788 2 2
+/page/ho_so_lanh_dao_cuc/4
+0 2 0 64291 2 1
+/page/ho_so_lanh_dao_cuc/5
+0 2 0 57782 2 2
+/page/ho_so_lanh_dao_cuc/6
+0 2 0 69268 2 1
+/page/ho_so_lanh_dao_cuc/7
+0 2 0 62704 1 1
+/details/dic/85/tin-su-kien
+0 1 0 33640 1 1
+/share/core/vendor/jquery-migrate/jquery-migrate.min.js
+0 3 0 22845 0 0
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai
+0 1 29849040 30078 1 0
+/details/video/4/
+0 1 0 28083 1 1
+/images/icon-download.png
+1 55 0 936087 0 0
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+0 14 0 640474 0 0
+/details/dic/96/tin-su-kien
+0 1 0 32969 1 1
+/details/dic/105/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai
+0 1 0 35830 1 1
+/category/dic/cac-nghi-dinh/16
+0 1 0 29718 1 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-77-98.googlebot.com
+0 9 9 211625 3 1452130511
+/calendar/dic/lien-hoan-phim-nhat-ban-2015-sac-mau-tinh-yeu/2015-11-06
+baiduspider-123-125-71-87.crawl.baidu.com
+0 1 1 46157 1 1452368354
+/
+mj5.naefmarco.ch
+0 4 4 108995 1 1452370882
+/details/dic/88/tin-su-kien/bo-truong-hoang-tuan-anh-nhan-huan-chuong-huu-nghi-lien-bang-nga/14
+msnbot-157-55-39-144.search.msn.com
+0 1 1 30985 0 0
+-
+boson046.ahrefs.com
+0 15 15 579272 8 1452545876
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+baiduspider-180-76-15-153.crawl.baidu.com
+0 3 2 47204 1 1452012777
+/
+crawl-66-249-75-60.googlebot.com
+0 7 7 286908 2 1452389911
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 1 22374 0 0
+-
+vigor.router
+0 1231 305 33502451 10 1452534033
+/
+crawl-66-249-64-36.googlebot.com
+0 1 1 41971 1 1452289264
+/details/dic/113/van-hoa/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+google-proxy-66-102-6-73.google.com
+0 5 5 224488 0 0
+-
+baiduspider-180-76-15-160.crawl.baidu.com
+0 1 1 282 0 0
+-
+105.112.32.103
+0 1 1 46472 1 1452253621
+/
+203.113.152.1
+0 20 19 847182 16 1452519424
+/
+203.113.152.2
+0 12 12 536630 10 1452533111
+/
+203.113.152.3
+0 16 15 639521 11 1452367878
+/
+msnbot-207-46-13-79.search.msn.com
+0 2 2 18422 0 0
+-
+203.113.152.4
+0 26 26 1063166 15 1452552350
+/
+203.113.152.6
+0 3 3 138414 3 1452480963
+/
+203.113.152.7
+0 3 3 111701 0 0
+-
+203.113.152.8
+0 3 3 138414 3 1452494148
+/
+183.79.221.97
+0 51 47 1573430 3 1452181343
+/home/operations/2016/02
+203.113.152.9
+0 10 10 416276 7 1452502651
+/
+42.112.254.65
+0 237 90 3394775 3 1452524084
+/
+google-proxy-66-102-6-76.google.com
+0 1 1 20059 0 0
+-
+163.ip-51-255-162.eu
+0 17 16 463533 1 1452282259
+/video/dic/Video-Tham-KhÃ¡ÂºÂ£o/23
+msnbot-207-46-13-48.search.msn.com
+0 5 5 191074 1 1452275592
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+65.132.59.34
+0 2 2 46612 1 1452282431
+/
+crawl-66-249-69-108.googlebot.com
+0 1 0 530 1 1452420991
+/
+msnbot-40-77-167-52.search.msn.com
+0 1 1 28775 1 1452379123
+/category/dic/the-gioi-voi-viet-nam/25
+46.165.197.142
+0 8 4 72200 1 1452232173
+/
+google-proxy-66-249-85-221.google.com
+0 1 0 551 1 1452149037
+/
+google-proxy-66-102-6-79.google.com
+0 4 4 180932 1 1452338430
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+msnbot-131-253-24-135.search.msn.com
+0 1 1 46146 1 1452370045
+/
+msnbot-157-55-39-171.search.msn.com
+0 5 5 173871 1 1452490042
+/category/dic/quan-he-quoc-te/14
+crawl-66-249-79-228.googlebot.com
+0 2 2 83463 1 1451922353
+/
+194.153.113.35
+0 6 6 126114 1 1451706097
+/
+msnbot-65-55-218-43.search.msn.com
+0 1 1 37080 0 0
+-
+baiduspider-180-76-15-13.crawl.baidu.com
+0 3 3 72094 2 1451982085
+/
+107.6.116.153
+0 67 35 1533203 1 1451936107
+/
+baiduspider-180-76-15-17.crawl.baidu.com
+0 2 2 93082 2 1452259409
+/
+crawl-66-249-71-152.googlebot.com
+0 24 23 1353520 10 1452201337
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+14.169.59.207
+0 19 15 557693 1 1452382093
+/
+f498.ip12.netikka.fi
+0 8 3 50713 1 1452421980
+/
+baiduspider-180-76-15-20.crawl.baidu.com
+0 2 1 42590 2 1452146263
+/
+msnbot-65-55-218-52.search.msn.com
+0 1 1 46144 1 1451925093
+/
+1.55.244.212
+0 1 1 34565 0 0
+-
+61.135.169.10
+0 1 1 22641 0 0
+-
+baiduspider-180-76-15-24.crawl.baidu.com
+0 3 2 25694 2 1452376415
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 3 3 91632 1 1452345579
+/
+174.247.197.104.bc.googleusercontent.com
+0 10 10 436383 1 1451974480
+/
+cpc4-newt33-2-0-cust17.19-3.cable.virginm.net
+0 5 5 130021 1 1452382063
+/home
+static.70.111.9.5.clients.your-server.de
+0 14 14 477734 1 1451692873
+/home/operations/2017/04
+62-210-115-133.rev.poneytelecom.eu
+0 21 15 344397 2 1452524132
+/
+210.211.106.100
+0 13 11 360727 10 1452540594
+-
+211.139.162.248
+0 10 10 906417 2 1452515048
+/
+210.211.106.101
+0 10 9 311222 7 1452517847
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+crawl-66-249-69-57.googlebot.com
+0 17 17 529295 4 1452490120
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+210.211.106.102
+0 10 10 316801 8 1452517614
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 0 7980 1 1451997129
+/share/
+210.211.106.103
+0 11 11 333872 7 1452517787
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam
+static.139.67.243.136.clients.your-server.de
+0 11 11 453677 1 1452149879
+/
+210.211.106.104
+0 7 6 213281 6 1452483265
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+210.211.106.105
+0 9 9 244730 8 1452540172
+/home/operations/2013/04
+210.211.106.106
+0 6 5 156924 5 1452540778
+-
+210.211.106.107
+0 6 5 157493 4 1452414026
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+210.211.106.108
+0 3 2 58237 3 1452540157
+-
+210.211.106.109
+0 8 8 268695 6 1452517569
+/details/dic/83
+static.132.8.76.144.clients.your-server.de
+0 24 19 484951 3 1452370063
+/home/operations/2013/11
+majestic12.co.uk
+0 127 115 3950095 3 1452433560
+/
+185.ip-51-254-121.eu
+0 49 35 944775 1 1452206007
+/home/operations/2015/01
+211.139.162.250
+0 8 8 814713 1 1452379528
+/
+210.211.106.110
+0 6 5 171123 5 1452517908
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition
+210.211.106.111
+0 10 9 309312 6 1452481517
+/page/ho_so_lanh_dao_cuc/2/van-phong
+msnbot-207-46-13-44.search.msn.com
+0 1 1 24325 0 0
+-
+210.211.106.112
+0 8 8 255417 7 1452486180
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien
+210.211.106.113
+0 7 6 202361 4 1452517731
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam
+210.211.106.114
+0 9 8 247904 5 1452478574
+/page/ho_so_lanh_dao_cuc/1
+210.211.106.115
+0 5 5 151105 2 1452269936
+/home/operations/2019/01
+210.211.106.116
+0 6 6 180890 5 1452480405
+/home/operations/2018/10
+210.211.106.117
+0 8 8 240734 5 1452488395
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+210.211.106.118
+0 15 11 360835 9 1452540778
+-
+210.211.106.119
+0 7 6 215167 3 1452484308
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh
+msnbot-131-253-26-238.search.msn.com
+0 1 1 22641 0 0
+-
+spider-178-154-189-18.yandex.com
+0 1 1 30933 1 1452452070
+/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5
+210.211.106.120
+0 5 4 141491 5 1452540157
+-
+210.211.106.121
+0 6 5 173425 6 1452540533
+-
+210.211.106.122
+0 12 12 366389 8 1452481168
+/home/operations/2019/03
+210.211.106.123
+0 7 7 231073 4 1452478117
+/details/dic/107
+210.211.106.124
+0 7 5 154229 4 1452262439
+/details/dic/114
+158.238.197.104.bc.googleusercontent.com
+0 10 10 436379 1 1451921017
+/
+210.211.106.125
+0 5 5 158688 5 1452478574
+/page/ho_so_lanh_dao_cuc/4
+195-154-194-111.rev.poneytelecom.eu
+0 3 0 1209 1 1452224293
+-
+210.211.106.126
+0 5 3 114387 3 1452195137
+-
+google-proxy-66-249-93-121.google.com
+0 11 10 360868 1 1452318874
+/
+192.ip-51-254-97.eu
+0 17 15 302319 1 1452395623
+/
+msnbot-157-55-39-28.search.msn.com
+0 5 5 117655 1 1452490089
+/contact
+195-154-226-90.rev.poneytelecom.eu
+0 1 0 375 1 1452258827
+-
+111.206.36.5
+0 1 1 22374 0 0
+-
+111.206.36.6
+0 1 1 126678 0 0
+-
+111.206.36.7
+0 3 3 245309 0 0
+-
+111.206.36.8
+0 1 1 22641 0 0
+-
+crawl-66-249-75-64.googlebot.com
+0 8 7 260077 1 1452531179
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+173.252.75.113
+0 1 1 18123 0 0
+-
+173.252.75.114
+0 2 2 40292 0 0
+-
+116.110.125.205
+0 1 1 46416 1 1452162308
+/
+173.252.75.118
+0 1 1 20556 0 0
+-
+210.211.106.10
+0 10 8 248117 6 1452517617
+/home/operations/2013/03
+210.211.106.11
+0 6 5 165916 5 1452540501
+-
+210.211.106.12
+0 9 8 277496 6 1452152637
+/details/dic/114/
+210.211.106.13
+0 4 4 118171 2 1452483624
+/details/video/6/video-tham-khao/vietnam-timeless-charm/
+210.211.106.14
+0 3 3 94106 2 1452260984
+/details/dic/99
+210.211.106.15
+0 6 6 215235 4 1452484929
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai/7
+210.211.106.16
+0 12 12 373383 9 1452517674
+/home/operations/2013/09
+210.211.106.17
+0 9 9 314224 7 1452517970
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia
+crawl-66-249-69-1.googlebot.com
+0 8 8 289908 4 1452420867
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+210.211.106.18
+0 11 10 343168 7 1452517674
+/home/operations/2026/07
+210.211.106.19
+0 6 6 197046 3 1452487293
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+planetlab2.cs.otago.ac.nz
+0 1 1 32832 1 1451918115
+/
+8.29.198.40
+0 1 1 46139 1 1452315938
+/
+msnbot-157-55-39-129.search.msn.com
+0 3 3 73699 0 0
+-
+210.211.106.20
+0 11 10 343167 8 1452480071
+/page/ho_so_lanh_dao_cuc/2/
+210.211.106.21
+0 7 7 277662 6 1452517730
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+210.211.106.22
+0 6 6 203472 4 1452517614
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai
+210.211.106.23
+0 7 5 142621 5 1452324095
+/home/operations/2014/04
+210.211.106.24
+0 10 10 341918 6 1452540172
+/home/operations/2021/08
+210.211.106.25
+0 7 6 213010 3 1452517787
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016
+210.211.106.26
+0 6 5 148788 5 1452476911
+/home/operations/2015/12
+210.211.106.27
+0 3 3 113159 2 1452495896
+/
+210.211.106.28
+0 5 5 161162 4 1452476075
+/details/dic/87
+210.211.106.29
+0 15 15 480168 8 1452486744
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+173.252.113.116
+0 1 1 20059 0 0
+-
+173.252.113.117
+0 1 1 24325 0 0
+-
+baiduspider-123-125-71-42.crawl.baidu.com
+0 1 1 46318 1 1452541241
+/
+210.211.106.30
+0 11 11 366578 8 1452517567
+/home/operations/2023/07
+210.211.106.31
+0 12 11 358414 7 1452483623
+/page/ho_so_lanh_dao_cuc/6/phong-chau-a---thai-binh-duong
+210.211.106.32
+0 6 6 186483 5 1452479669
+/details/dic/96/
+210.211.106.33
+0 7 7 197213 6 1452540519
+/home/operations/2014/06
+210.211.106.34
+0 7 7 240458 4 1452517569
+/details/dic/88
+210.211.106.35
+0 8 7 226177 8 1452540778
+-
+210.211.106.36
+0 5 5 140715 4 1452412489
+/home/operations/2013/02
+210.211.106.37
+0 8 7 208828 7 1452540519
+/home/operations/2011/12
+210.211.106.38
+0 9 7 259826 7 1452540533
+-
+210.211.106.39
+0 7 6 184101 5 1452475611
+/discussion_question
+136.243.103.164.mj12bot.crawler.software
+0 8 8 234052 2 1452250495
+/
+mj1.naefmarco.ch
+0 28 28 870571 2 1452474405
+/video/dic/video-tham-khao/23
+p5b140f01.dip0.t-ipconnect.de
+0 62 57 2044213 1 1452173215
+/video/dic/Video-Tham-Khảo/23
+msnbot-40-77-167-68.search.msn.com
+0 21 21 635747 2 1452490784
+/discussion_question
+14.162.164.189
+0 17 17 951192 1 1451717312
+/
+root.naefmarco.ch
+0 89 88 3009924 2 1452472759
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+63.141.226.178
+0 7 6 145170 1 1452243161
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+ns300543.ip-91-121-64.eu
+0 25 25 825197 1 1452488062
+/gallery
+210.211.106.40
+0 8 7 214473 6 1452481517
+/page/ho_so_lanh_dao_cuc/4/phong-chau-au
+210.211.106.41
+0 5 5 144503 4 1452481852
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+210.211.106.42
+0 3 3 86688 1 1452216209
+/home/operations/2014/09
+210.211.106.43
+0 10 9 284349 7 1452540533
+-
+210.211.106.44
+0 11 9 317668 6 1452482198
+/page/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi
+210.211.106.45
+0 8 7 248376 5 1452478575
+/page/ho_so_lanh_dao_cuc/6
+mj6.naefmarco.ch
+0 34 25 539949 2 1452449597
+/home/operations/2013/11
+210.211.106.46
+0 8 7 215738 6 1452540594
+-
+210.211.106.47
+0 2 2 66732 2 1452483623
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai
+210.211.106.48
+0 7 7 212746 6 1452540502
+/home/operations/2014/03
+210.211.106.49
+0 9 8 265829 6 1452540171
+/home/operations/2012
+crawl-66-249-79-146.googlebot.com
+0 3 3 91511 0 0
+-
+msnbot-40-77-167-77.search.msn.com
+0 10 9 267282 1 1451720734
+/home
+62-210-90-118.rev.poneytelecom.eu
+0 11 11 220931 2 1452196954
+/video/dic/video-gioi-thieu/23
+rate-limited-proxy-66-249-91-58.google.com
+0 1 0 403 1 1452208369
+-
+ns354092.ip-91-121-101.eu
+0 12 6 143595 1 1452254868
+/
+210.211.106.50
+0 8 7 238482 7 1452517672
+-
+210.211.106.51
+0 6 5 146484 4 1452479669
+/home/operations/2019
+210.211.106.52
+0 10 10 330836 9 1452484309
+/details/dic/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5
+210.211.106.53
+0 7 6 237927 4 1452517907
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+210.211.106.54
+0 7 6 158235 4 1452540594
+-
+210.211.106.55
+0 9 9 338809 4 1452488395
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+210.211.106.56
+0 12 11 438557 8 1452487293
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/
+210.211.106.57
+0 7 7 215478 6 1452482524
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/
+210.211.106.58
+0 11 11 354062 8 1452517908
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai
+210.211.106.59
+0 7 7 214335 6 1452477790
+/home/operations/2015/09
+static.vnpt-hanoi.com.vn
+0 832 153 9017534 4 1452531979
+/
+207.ip-149-202-48.eu
+0 6 3 49640 1 1451956039
+/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 1 299 0 0
+-
+210.211.106.60
+0 4 4 145205 3 1452413104
+/details/dic/116/tin-su-kien
+210.211.106.61
+0 4 4 109542 4 1452479670
+/home/operations/2017/08
+210.211.106.62
+0 6 6 212334 5 1452475610
+/home
+210.211.106.63
+0 6 5 152751 3 1452482946
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/
+210.211.106.64
+0 8 7 218729 5 1452540501
+-
+210.211.106.65
+0 5 4 117200 4 1451979702
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/
+crawl-66-249-71-189.googlebot.com
+0 10 10 293837 6 1452187049
+/details/dic/107/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27
+210.211.106.66
+0 4 4 131043 4 1452412489
+/home/operations/2013/10
+210.211.106.67
+0 9 7 243494 5 1452412475
+/details/dic/96/tin-su-kien/bua-com-gia-dinh/20
+210.211.106.68
+0 6 5 163666 6 1452323646
+/home/operations/2013/02
+210.211.106.69
+0 6 6 191826 4 1452479318
+/page/ho_so_lanh_dao_cuc/3/
+crawl-66-249-71-105.googlebot.com
+0 17 17 506950 6 1452191600
+/
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 1 45720 0 0
+-
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 36589 0 0
+-
+msnbot-157-55-39-11.search.msn.com
+0 15 14 413557 2 1452282456
+/category/dic/quan-he-quoc-te/14
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 299 0 0
+-
+27.67.20.133
+0 14 13 483525 1 1452274702
+/
+crawl-66-249-71-171.googlebot.com
+0 10 10 670412 6 1452028818
+/details/dic/115/van-hoa/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11
+210.211.106.70
+0 13 12 378566 9 1452540172
+/home/operations/2013/08
+210.211.106.71
+0 7 6 194002 5 1452517569
+/details/dic/95
+210.211.106.72
+0 10 9 294539 7 1452540533
+-
+128.64.154.104.bc.googleusercontent.com
+0 10 10 436378 1 1451717571
+/
+210.211.106.73
+0 8 7 210286 7 1452517567
+-
+210.211.106.74
+0 6 6 206791 5 1452517614
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh
+69.30.234.186
+0 5 5 155211 0 0
+-
+210.211.106.75
+0 5 4 131130 3 1452304005
+/details/dic/102/tin-su-kien/
+210.211.106.76
+0 12 12 382502 11 1452412489
+/home/operations/2026/06
+210.211.106.77
+0 11 9 281426 6 1452540501
+/home/operations/2023/07
+210.211.106.78
+0 6 4 139966 4 1452540501
+-
+msnbot-157-55-39-235.search.msn.com
+0 11 11 387101 2 1452501008
+/home/operations/2015/11
+210.211.106.79
+0 9 8 280800 8 1452484929
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai/
+baiduspider-180-76-15-152.crawl.baidu.com
+0 1 1 28034 0 0
+-
+crawl-66-249-69-65.googlebot.com
+0 13 12 400586 6 1452414438
+/share/
+80.91.162.99
+0 52 20 630710 1 1452384451
+/
+210.211.106.80
+0 8 7 218214 5 1452482198
+/category/dic/viet-nam-cultural-centers-abroad/27
+210.211.106.81
+0 7 6 195205 4 1452483265
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+210.211.106.82
+0 11 11 360083 7 1452487855
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+210.211.106.83
+0 9 9 288526 6 1452482524
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+210.211.106.84
+0 9 8 266542 8 1452540712
+-
+210.211.106.85
+0 5 4 152735 3 1452517847
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016
+210.211.106.86
+0 3 3 82453 2 1452480072
+/page/ho_so_lanh_dao_cuc/1/
+210.211.106.87
+0 8 8 277940 4 1452540519
+/home/operations/2012/02
+210.211.106.88
+0 5 2 62011 3 1452479318
+/page/ho_so_lanh_dao_cuc/7
+210.211.106.89
+0 8 7 220623 5 1452413564
+/details/dic/85/tin-su-kien/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/
+136.243.103.157.mj12bot.crawler.software
+0 14 11 181308 2 1452376340
+/
+msnbot-157-55-39-143.search.msn.com
+0 11 11 310069 1 1451747669
+/discussion_question
+111.206.36.12
+0 2 2 149052 0 0
+-
+111.206.36.13
+0 2 2 222935 0 0
+-
+111.206.36.14
+0 1 1 37080 0 0
+-
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 1 38139 1 1451978062
+/gallery
+crawl-66-249-79-106.googlebot.com
+0 1 1 30538 0 0
+-
+111.206.36.17
+0 2 2 74160 0 0
+-
+111.206.36.19
+0 1 1 22374 0 0
+-
+194.50.116.250
+0 1 1 814 1 1451938421
+/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/20
+210.211.106.90
+0 2 2 66809 2 1452303559
+/details/dic/113/tin-su-kien
+210.211.106.91
+0 12 10 319580 10 1452540652
+-
+210.211.106.92
+0 7 7 214013 5 1452517787
+/details/dic/79/tin-su-kien/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+210.211.106.93
+0 6 5 175626 5 1452486744
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien/7
+210.211.106.94
+0 2 2 72815 2 1451948286
+/details/dic/101/quan-he-quoc-te/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai
+210.211.106.95
+0 6 6 211221 3 1452410755
+/details/dic/95/
+210.211.106.96
+0 13 11 352294 8 1452540157
+-
+210.211.106.97
+0 5 5 138585 4 1452432918
+/home/operations/2013/03
+210.211.106.98
+0 10 9 252851 9 1452540533
+-
+210.211.106.99
+0 7 7 224421 5 1452412802
+/details/dic/92/tin-su-kien/dong-chi-vuong-duy-bien/
+static.105.87.4.46.clients.your-server.de
+0 5 4 123751 1 1451998584
+/gallery
+62-210-148-233.rev.poneytelecom.eu
+0 7 4 95621 2 1451986523
+/
+crawl-66-249-69-87.googlebot.com
+0 1 0 571 0 0
+-
+61.120.154.122
+0 1 1 46079 1 1452399721
+/
+5ed0915f.cm-7-1c.dynamic.ziggo.nl
+0 13 8 209246 1 1452548033
+/
+42.113.153.155
+0 60 25 889180 1 1452548916
+/
+crawl-66-249-69-153.googlebot.com
+0 7 7 433504 3 1452500593
+/
+164.ip-51-255-162.eu
+0 20 8 197168 1 1451983260
+/
+crawl-66-249-77-126.googlebot.com
+0 2 0 1122 1 1451922230
+/
+crawl-66-249-77-92.googlebot.com
+0 12 12 352814 6 1452028257
+/home/operations/2016/02
+baiduspider-180-76-15-12.crawl.baidu.com
+0 4 4 68027 0 0
+-
+baiduspider-180-76-15-16.crawl.baidu.com
+0 3 2 87371 2 1452254093
+/
+173.252.122.116
+0 1 1 37129 0 0
+-
+173.252.122.117
+0 4 4 123995 1 1451901744
+/
+173.252.122.118
+0 1 1 18123 0 0
+-
+173.252.122.119
+0 2 2 116365 0 0
+-
+baiduspider-180-76-15-23.crawl.baidu.com
+0 1 1 33134 0 0
+-
+baiduspider-180-76-15-27.crawl.baidu.com
+0 4 2 84126 3 1452254093
+/
+173.252.122.120
+0 1 1 96306 0 0
+-
+google-proxy-66-102-7-155.google.com
+0 1 1 370345 0 0
+-
+173.252.122.121
+0 1 1 46077 1 1451901745
+/
+msnbot-157-55-39-240.search.msn.com
+0 2 2 40573 0 0
+-
+156.ip-51-255-48.eu
+0 63 49 1383878 1 1452275295
+/share/
+host-176-36-80-39.la.net.ua
+0 6 6 187672 1 1451710661
+/details/dic/91/du-lich/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+msnbot-207-46-13-25.search.msn.com
+0 6 6 140668 2 1451959289
+/video/dic/video-chung-toi/22
+b115487.yse.yahoo.net
+0 3 1 1421 1 1452237244
+/
+static.215.5.243.136.clients.your-server.de
+0 18 15 389818 2 1452516885
+/home/operations/2018/01
+gr212.tfbnw.net
+0 1 1 20556 0 0
+-
+baiduspider-180-76-15-5.crawl.baidu.com
+0 2 1 8262 1 1452390807
+/share/
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 299 0 0
+-
+google-proxy-66-249-93-117.google.com
+0 7 7 434920 0 0
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 2 2 75850 0 0
+-
+baiduspider-180-76-15-34.crawl.baidu.com
+0 2 2 63120 2 1452260078
+/
+ju058.jupiter.fastwebserver.de
+0 66 49 1280707 4 1452509121
+/home/operations/2013/11
+f481.fuchsia.fastwebserver.de
+0 14 8 183535 2 1452493008
+/
+31.13.110.103
+0 1 1 36404 1 1452510968
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+31.13.110.104
+0 1 1 36404 1 1452511185
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+msnbot-207-46-13-74.search.msn.com
+0 12 12 451760 2 1452501015
+/home/operations/2016/01
+crawl-66-249-69-113.googlebot.com
+0 9 9 461357 2 1452496827
+/
+hosted-by.leaseweb.com
+0 59 59 1958573 3 1452303410
+/gallery
+crawl812.us.archive.org
+0 2 2 47048 1 1452521251
+/
+gr215.tfbnw.net
+0 2 2 38182 0 0
+-
+198.98.108.54
+0 1 1 46078 1 1452275114
+/
+hosted-by.bit-mesra-ranchi.com
+0 1 1 46389 1 1451756312
+/
+1.237.177.12
+0 6 6 358974 2 1452411946
+/
+115.230.126.48
+0 2 1 46766 1 1452483059
+/
+31.13.110.122
+0 1 1 35523 1 1452512003
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+msnbot-131-253-24-130.search.msn.com
+0 1 1 126678 0 0
+-
+113.23.17.67
+0 13 12 431644 0 0
+-
+ns348917.ip-91-121-169.eu
+0 147 104 3475926 2 1452529643
+/
+ns500.vnanet.vn
+0 12 12 431285 0 0
+-
+mj2.naefmarco.ch
+0 5 5 133350 1 1452480932
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/22
+google-proxy-66-102-6-162.google.com
+0 1 1 7456 0 0
+-
+117.136.39.200
+0 8 8 357866 1 1452004188
+/
+msnbot-157-55-39-67.search.msn.com
+0 1 1 28362 1 1452527460
+/category/dic/su-kien-quoc-te/10
+thoreau.tk
+0 61 61 2075083 2 1452283093
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+crawl-66-249-71-113.googlebot.com
+0 10 10 399318 3 1451995294
+/
+mj7.naefmarco.ch
+0 38 36 978167 3 1452369202
+/
+msnbot-131-253-26-255.search.msn.com
+0 1 1 22641 0 0
+-
+static.vdc.vn
+0 595 551 18669033 34 1452513094
+/page/profile_department_for_international_cooperation
+spider-178-154-243-99.yandex.com
+0 2 2 46436 1 1452453827
+/
+boson004.ahrefs.com
+0 1 1 299 0 0
+-
+msnbot-157-55-39-36.search.msn.com
+0 10 9 188828 1 1451729933
+/page/profile_department_for_international_cooperation
+msnbot-157-55-39-76.search.msn.com
+0 2 2 31172 1 1451912779
+/page/profile_department_for_international_cooperation
+177.218.197.104.bc.googleusercontent.com
+0 1 1 46174 1 1451699421
+/
+msnbot-157-55-39-119.search.msn.com
+0 6 6 213296 1 1452490002
+/gallery
+173.252.120.101
+0 1 1 46302 1 1452534632
+/
+boson114.ahrefs.com
+0 2 1 870 0 0
+-
+msnbot-157-55-39-85.search.msn.com
+0 4 4 90563 0 0
+-
+116.104.216.187
+0 12 11 436090 1 1452467800
+/
+42.113.152.46
+0 12 12 799588 1 1452013319
+/category/dic/viet-nam-cultural-centers-abroad/27
+192.162.27.188
+0 1 1 46419 1 1452400383
+/
+118.70.211.242
+0 129 89 3713880 6 1452519450
+/
+b115372.yse.yahoo.net
+0 54 50 1611308 12 1452442414
+/video/dic/video-tham-khao/23
+spider-95-108-158-191.yandex.com
+0 1 1 38112 0 0
+-
+156.237.197.104.bc.googleusercontent.com
+0 10 10 436379 1 1451937066
+/
+171.232.181.248
+0 1 1 46416 1 1451905544
+/
+173.252.115.87
+0 1 1 20556 0 0
+-
+spider-141-8-142-88.yandex.com
+0 1 1 46275 1 1452452066
+/
+173.252.115.88
+0 2 2 38182 0 0
+-
+24.ip-51-254-143.eu
+0 6 4 95204 1 1452375805
+/
+msnbot-157-55-39-63.search.msn.com
+0 11 11 351344 2 1451957184
+/
+planetlab-04.vt.nodes.planet-lab.org
+0 1 1 36140 1 1452521399
+/
+173.252.115.90
+0 1 1 20233 0 0
+-
+static.69.131.9.176.clients.your-server.de
+0 6 6 139264 2 1452373841
+/video/dic/video-gioi-thieu/23
+msnbot-157-55-39-186.search.msn.com
+0 17 17 602532 1 1451955570
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+117.6.161.187
+0 43 43 2228629 1 1452508626
+/
+google-proxy-64-233-172-134.google.com
+0 2 2 30097 0 0
+-
+baiduspider-180-76-15-137.crawl.baidu.com
+0 3 3 128601 2 1452367294
+/
+182.81.154.104.bc.googleusercontent.com
+0 10 10 436376 1 1451997581
+/
+219.ip-51-254-97.eu
+0 20 16 333709 2 1452441190
+/
+13.194.178.107.gae.googleusercontent.com
+0 1 1 46430 1 1452286912
+/
+static.148.4.76.144.clients.your-server.de
+0 26 11 297811 2 1452374923
+/details/dic/85/tin-noi-bat/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/contact
+msnbot-157-55-39-155.search.msn.com
+0 11 11 318266 2 1452368070
+/category/dic/the-gioi-voi-viet-nam/25
+msnbot-157-55-39-195.search.msn.com
+0 9 9 271367 1 1452489994
+/video/dic/video-tham-khao/23
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 1 46787 1 1451914767
+/
+crawl-192-99-107-200.meanpathbot.com
+0 1 1 46157 1 1452462269
+/
+62-210-152-87.rev.poneytelecom.eu
+0 132 108 2755143 3 1452337648
+/video/dic/Video-ChÃÂºng-TÃÂ´i/22
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 0 530 1 1452030949
+/
+24.184.197.104.bc.googleusercontent.com
+0 10 10 436376 1 1451927178
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 2 1 17374 1 1452012866
+/
+msnbot-157-55-39-41.search.msn.com
+0 1 1 30477 1 1452206509
+/page/profile_department_for_international_cooperation
+sv1.davihost.net
+0 3 3 140174 3 1452540114
+/
+crawl345.us.archive.org
+0 2 2 46678 1 1452195741
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 4 4 185738 4 1452553973
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 46787 1 1452009881
+/
+205.ip-158-69-200.net
+0 7 6 137504 1 1452394138
+/
+msnbot-157-55-39-10.search.msn.com
+0 1 1 31080 1 1451715282
+/discussion_question
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 1 17424 1 1452236084
+/
+crawl-66-249-71-161.googlebot.com
+0 17 17 550358 1 1452023736
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+msnbot-131-253-24-137.search.msn.com
+0 1 1 96257 0 0
+-
+92.222.74.90
+0 1 1 46413 1 1452414452
+/
+server.2share.tv
+0 9 8 73221 1 1452440134
+/
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 1 17424 1 1452235993
+/
+ec2-52-23-213-78.compute-1.amazonaws.com
+0 1 1 46092 1 1452425379
+/
+109.ip-158-69-214.net
+0 2 2 39449 1 1452309377
+/details/dic/85/tin-noi-bat/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/12
+mj10.naefmarco.ch
+0 2 2 34628 1 1452477719
+/video/dic/Video-Chúng-Tôi/22
+google-proxy-66-102-7-148.google.com
+0 1 1 46771 1 1452149037
+/
+msnbot-157-55-39-142.search.msn.com
+0 8 8 293027 1 1451747673
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+209.58.178.49
+0 12 6 143578 1 1451909863
+/
+38.99.82.191
+0 275 141 5548688 3 1452217760
+-
+msnbot-157-55-39-182.search.msn.com
+0 4 4 64674 0 0
+-
+dynamic.vdc.vn
+0 70 68 3302874 2 1452508469
+/gallery
+msnbot-65-55-218-54.search.msn.com
+0 1 1 37080 0 0
+-
+ip1f102bba.dynamic.kabel-deutschland.de
+0 49 41 1267660 1 1452171123
+/page/profile_department_for_international_cooperation
+host-234-5-220-24-static.midco.net
+0 7 5 97632 1 1451902563
+/
+118.70.74.162
+0 1 1 282 0 0
+-
+msnbot-207-46-13-37.search.msn.com
+0 9 9 137777 2 1452505037
+/category/dic/the-gioi-voi-viet-nam/25
+boson120.ahrefs.com
+0 18 18 662610 12 1452262540
+/details/dic/113/tin-noi-bat/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+69.30.214.46
+0 7 7 185853 1 1451693944
+/home/operations/2016/03
+crawl-66-249-75-51.googlebot.com
+0 9 9 527664 2 1452348934
+/discussion_question
+173.252.88.244
+0 1 1 20556 0 0
+-
+baiduspider-180-76-15-11.crawl.baidu.com
+0 1 1 46296 1 1451702410
+/
+173.252.88.247
+0 2 2 38182 0 0
+-
+173.252.88.249
+0 1 1 20233 0 0
+-
+238.ip-51-254-143.eu
+0 5 3 47931 1 1452216939
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 1 17424 1 1451759008
+/
+38.99.62.91
+0 1 1 46377 1 1452143145
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 2 2 64070 0 0
+-
+ptr.cnsat.com.cn
+0 2 1 46800 1 1452148272
+/
+crawl-66-249-71-121.googlebot.com
+0 5 5 124792 4 1451964564
+/gallery
+38-111-147-088.co147.iparadigms.net
+0 2 2 46420 1 1452519851
+/
+61.135.169.7
+0 1 1 126678 0 0
+-
+61.135.169.8
+0 1 1 46193 1 1452481559
+/
+136.243.103.165.mj12bot.crawler.software
+0 3 3 79060 1 1452021188
+/details/dic/84/tin-noi-bat/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/contact
+msnbot-157-55-39-230.search.msn.com
+0 2 2 30760 1 1451931094
+/page/profile_department_for_international_cooperation
+ns312079.ip-188-165-214.eu
+0 2 2 47155 1 1452224847
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+baiduspider-180-76-15-8.crawl.baidu.com
+0 3 3 95375 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 2 0 1101 1 1452470491
+/
+ec2-54-167-191-123.compute-1.amazonaws.com
+0 2 2 46711 1 1452219483
+/
+static.75.32.4.46.clients.your-server.de
+0 38 34 1204319 3 1452320279
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/22
+173.252.90.101
+0 1 1 9305 0 0
+-
+173.252.90.102
+0 2 2 18610 0 0
+-
+173.252.90.104
+0 1 1 9305 0 0
+-
+173.252.90.107
+0 2 2 18610 0 0
+-
+58.ip-51-254-130.eu
+0 11 11 324120 0 0
+-
+msnbot-65-55-218-50.search.msn.com
+0 1 1 22374 0 0
+-
+mail.votreebook.com
+0 2 0 806 1 1452028515
+-
+218.67.197.104.bc.googleusercontent.com
+0 1 1 46179 1 1451726003
+/
+mj8.naefmarco.ch
+0 53 47 1565837 1 1452262889
+/
+gateway.finezt.com
+0 6 6 113594 2 1452024984
+/home/operations/2013/10
+173.252.90.111
+0 1 1 9305 0 0
+-
+173.252.90.116
+0 1 1 9305 0 0
+-
+173.252.90.117
+0 1 1 39786 1 1452502306
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+msnbot-207-46-13-122.search.msn.com
+0 2 2 34591 1 1452026020
+/video/dic/video-chung-toi/22
+173.252.90.120
+0 1 1 9305 0 0
+-
+173.252.90.121
+0 2 2 72646 2 1452502302
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+crawl-66-249-69-103.googlebot.com
+0 1 0 551 1 1452365041
+/
+173.252.90.122
+0 2 2 42165 1 1451936152
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+173.252.90.125
+0 1 1 9305 0 0
+-
+spider-130-193-51-15.yandex.com
+0 1 1 38111 1 1452441969
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+rate-limited-proxy-72-14-199-118.google.com
+0 1 0 403 1 1451905949
+-
+msnbot-207-46-13-131.search.msn.com
+0 5 5 175536 1 1452282433
+/gallery
+111.206.36.132
+0 3 3 181441 0 0
+-
+111.206.36.133
+0 1 1 34307 0 0
+-
+111.206.36.134
+0 3 3 155711 0 0
+-
+111.206.36.137
+0 1 1 96257 0 0
+-
+111.206.36.138
+0 3 3 171693 0 0
+-
+111.206.36.139
+0 3 3 102511 0 0
+-
+62-210-170-165.rev.poneytelecom.eu
+0 100 59 1752463 2 1452317781
+/video/dic/video-tham-khao/23
+240.ip-51-254-143.eu
+0 3 2 48514 1 1452228290
+/
+111.206.36.141
+0 1 1 96257 0 0
+-
+spider-141-8-183-8.yandex.com
+0 1 1 30930 0 0
+-
+111.206.36.143
+0 1 1 22641 0 0
+-
+111.206.36.144
+0 3 3 141539 0 0
+-
+111.206.36.145
+0 2 2 68479 0 0
+-
+111.206.36.147
+0 1 1 22641 0 0
+-
+116.100.73.109
+0 3 3 179476 1 1451909791
+/
+msnbot-157-55-39-66.search.msn.com
+0 6 6 191356 1 1451956838
+/gallery
+spider-130-193-50-11.yandex.com
+0 1 1 299 0 0
+-
+31.13.110.96
+0 1 1 36403 1 1452510971
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+62-210-97-48.rev.poneytelecom.eu
+0 60 50 1647693 4 1452440430
+/
+static.197.174.46.78.clients.your-server.de
+0 5 5 145878 1 1451957655
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao/12
+boson047.ahrefs.com
+0 1 1 299 0 0
+-
+173.252.120.98
+0 2 2 55445 1 1451901744
+/
+173.252.120.99
+0 1 1 9305 0 0
+-
+gr213.tfbnw.net
+0 1 1 20233 0 0
+-
+208.182.222.162.bc.googleusercontent.com
+0 10 10 436379 1 1451749766
+/
+92.222.84.114
+0 1 1 46136 1 1451701279
+/
+crawl-66-249-69-147.googlebot.com
+0 9 7 244777 4 1452530419
+/
+173.252.90.167
+0 1 1 24325 0 0
+-
+173.252.90.168
+0 1 1 20059 0 0
+-
+crawl-66-249-77-86.googlebot.com
+0 14 14 692612 4 1452145280
+/calendar/dic/hoi-thao-tham-van-va-tap-huan-nang-cao-nang-luc-thuc-hien-cong-uoc-unesco-2005-ve-bao-ve-va-phat-huy-su-da-dang-cac-bieu-dat-van-hoa/2015-11-23
+mansfield2.didici.be
+0 2 2 22675 1 1452395642
+/home/operations/2013/08
+crawl-66-249-71-180.googlebot.com
+0 7 7 267957 4 1452184423
+/
+60.ip-51-254-130.eu
+0 12 6 143595 1 1452481225
+/
+61.135.165.8
+0 1 1 22374 0 0
+-
+61.135.165.9
+0 2 2 133337 0 0
+-
+msnbot-157-55-39-167.search.msn.com
+0 4 4 137679 1 1452275580
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+1.55.244.180
+0 1 1 370345 0 0
+-
+msnbot-65-55-218-39.search.msn.com
+0 1 1 22374 0 0
+-
+msnbot-157-55-39-13.search.msn.com
+0 3 3 38586 1 1451729853
+/gallery
+msnbot-157-55-39-9.search.msn.com
+0 7 7 207630 1 1452282447
+/contact
+mansfield.didici.be
+0 53 47 1586399 1 1452322422
+/video/dic/video-tham-khao/23
+199.58.86.209
+0 6 6 187293 1 1452368655
+/details/dic/97/tin-noi-bat/y-nghia-ngay-gia-dinh-viet-nam-286/20
+ec2-174-129-237-157.compute-1.amazonaws.com
+0 36 30 726155 4 1452280080
+-
+175.164.9.46.customer.cdi.no
+0 11 2 35644 1 1452293392
+/
+google-proxy-66-249-85-225.google.com
+0 1 1 20556 0 0
+-
+b115318.yse.yahoo.net
+0 59 55 1679332 14 1452513069
+/share/
+163-172-10-39.rev.poneytelecom.eu
+0 33 31 917878 3 1452207658
+/
+planetlab2.arizona-gigapop.net
+0 1 1 34560 1 1452266937
+/
+70.ip-51-255-51.eu
+0 24 15 480442 1 1452492480
+/
+timtoi.vn
+0 23 23 1057057 3 1452529194
+/
+199.58.86.211
+0 53 23 558302 1 1451982917
+/
+netherfield.didici.be
+0 5 5 130004 1 1451975308
+/home
+msnbot-157-55-39-185.search.msn.com
+0 3 3 18687 0 0
+-
+88572hd56158.ikexpress.com
+0 6 6 187281 1 1452191210
+/details/dic/97/tin-noi-bat/y-nghia-ngay-gia-dinh-viet-nam-286/20
+baiduspider-180-76-15-143.crawl.baidu.com
+0 2 1 17975 2 1452376326
+/
+adsl.viettel.vn
+0 14 13 522908 3 1452411209
+/
+google-proxy-66-249-85-228.google.com
+0 2 2 52984 1 1451936141
+/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+62-210-107-201.rev.poneytelecom.eu
+0 6 5 117849 2 1452439040
+/
+183.79.219.189
+0 2 2 46685 1 1452152669
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 46437 1 1452489394
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 17424 1 1452345593
+/
+104.131.25.244
+0 23 22 762661 1 1452258894
+/gallery
+baiduspider-180-76-15-158.crawl.baidu.com
+0 2 2 34605 0 0
+-
+mb2d84.vdrs.net
+0 2 2 92790 2 1452324855
+/
+boson009.ahrefs.com
+0 71 69 2551077 28 1452270532
+/home/operations/2016/01
+rate-limited-proxy-72-14-199-124.google.com
+0 2 0 806 2 1452006755
+-
+static.35.89.4.46.clients.your-server.de
+0 15 12 290205 3 1452279237
+/
+173.252.89.52
+0 1 1 18123 0 0
+-
+173.252.89.55
+0 1 1 20556 0 0
+-
+173.252.89.56
+0 2 2 40292 0 0
+-
+mj4.naefmarco.ch
+0 121 109 3679263 3 1452473772
+/
+crawl-66-249-74-5.googlebot.com
+0 2 2 126960 0 0
+-
+boson053.ahrefs.com
+0 6 6 221137 4 1452554562
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore/27
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 1 46156 1 1452282079
+/
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 299 0 0
+-
+google-proxy-66-249-93-125.google.com
+0 3 3 69340 0 0
+-
+static.86.48.243.136.clients.your-server.de
+0 3 3 102648 0 0
+-
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 1 46786 1 1452299024
+/
+27.77.147.172
+0 11 11 438556 1 1452547776
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+mj9.naefmarco.ch
+0 58 51 1598579 3 1452472906
+/details/dic/91/du-lich/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+msnbot-157-55-39-251.search.msn.com
+0 4 4 128926 3 1452274385
+/
+crawl-66-249-69-122.googlebot.com
+0 11 11 284448 5 1452475956
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+msnbot-207-46-13-76.search.msn.com
+0 12 12 271909 2 1451957118
+/category/dic/su-kien-trong-nuoc/9
+baiduspider-180-76-15-21.crawl.baidu.com
+0 2 2 63580 1 1451758985
+/
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 1 22641 0 0
+-
+static.85-10-211-235.clients.your-server.de
+0 13 6 97025 1 1452490083
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+239.ip-51-254-143.eu
+0 21 21 656242 1 1452292518
+/home/operations/2014/02
+baiduspider-180-76-15-29.crawl.baidu.com
+0 2 2 76869 0 0
+-
+crawl-66-249-79-242.googlebot.com
+0 1 1 34288 0 0
+-
+static.cmcti.vn
+0 26 23 1113233 1 1452478898
+/
+andyverdi.com
+0 1 1 30996 0 0
+-
+google-proxy-64-233-172-246.google.com
+0 4 4 265865 0 0
+-
+crawl-66-249-79-108.googlebot.com
+0 1 1 45823 0 0
+-
+81.145.197.104.bc.googleusercontent.com
+0 8 8 365878 0 0
+-
+baiduspider-180-76-15-32.crawl.baidu.com
+0 2 2 581 0 0
+-
+baiduspider-180-76-15-7.crawl.baidu.com
+0 1 1 46435 1 1452392817
+/
+static.85.48.243.136.clients.your-server.de
+0 3 3 108214 0 0
+-
+171.240.169.52
+0 11 11 433547 1 1452423826
+/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13
+91.198.143.115
+0 93 87 3107028 1 1452164333
+/share/
+msnbot-207-46-13-94.search.msn.com
+0 1 1 282 0 0
+-
+google-proxy-66-249-85-231.google.com
+0 4 4 455004 1 1452541894
+/
+168.178.197.104.bc.googleusercontent.com
+0 10 10 436385 1 1451908315
+/
+128-253-47-212.rev.cloud.scaleway.com
+0 69 61 2064586 2 1452333623
+/discussion_question
+ec2-54-145-178-15.compute-1.amazonaws.com
+0 2 2 46710 1 1452294824
+/
+ec2-54-144-195-99.compute-1.amazonaws.com
+0 2 2 46710 1 1452286963
+/
+62-210-152-89.rev.poneytelecom.eu
+0 61 53 1561243 3 1452493912
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+59.ip-51-254-130.eu
+0 8 3 50864 1 1451917689
+/
+210.211.106.1
+0 5 5 146480 4 1452517847
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao
+210.211.106.2
+0 7 6 216873 4 1452156902
+/details/dic/101/quan-he-quoc-te
+210.211.106.3
+0 2 2 57005 1 1452323646
+/home/operations/2012/12
+210.211.106.4
+0 7 6 210652 5 1452517847
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano
+210.211.106.5
+0 10 9 289716 7 1452481851
+/home/operations/2018/05
+210.211.106.6
+0 11 9 288440 5 1452517730
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi
+210.211.106.7
+0 4 4 124266 4 1452477295
+/details/dic/103
+static.84.48.243.136.clients.your-server.de
+0 1 1 22380 1 1451723398
+/home/operations/2016/01
+210.211.106.8
+0 7 5 122738 4 1452517673
+-
+210.211.106.9
+0 8 7 242749 5 1452480798
+/category/dic/su-kien-trong-nuoc/9
+www.whois.sc
+0 10 6 235170 5 1452521479
+/
+nat-vlan550.las1.sco.cisco.com
+0 3 1 47108 1 1452392607
+/
+136.243.103.156.mj12bot.crawler.software
+0 10 9 178593 3 1452507920
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+173.252.90.96
+0 1 1 9305 0 0
+-
+173.252.90.97
+0 2 2 18610 0 0
+-
+173.252.90.98
+0 1 1 9305 0 0
+-
+host-31-181-230-24.midco.net
+0 5 5 150428 1 1452240763
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+msnbot-131-253-26-226.search.msn.com
+0 1 1 126678 0 0
+-
+pa337fd.chibnt01.ap.so-net.ne.jp
+0 1 1 299 0 0
+-
+1.55.96.43
+0 58 53 2297066 1 1452506996
+/
+msnbot-207-46-13-81.search.msn.com
+0 9 9 301215 1 1451751507
+/details/dic/99/tin-noi-bat/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+crawl-192-99-107-197.meanpathbot.com
+0 1 1 299 0 0
+-
+69.30.215.106
+0 10 5 133193 1 1451721946
+/details/dic/105/tin-su-kien/quang-ba-van-hoa-du-lich-viet-nam-toi-dat-nuoc-hy-lap/27
+38.99.82.235
+0 160 61 2485084 3 1452206570
+/share/
+crawl-66-249-69-49.googlebot.com
+0 35 35 2056116 5 1452541925
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+42.114.169.182
+0 13 12 808123 1 1452005433
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+static.88-198-22-8.clients.your-server.de
+0 4 4 94046 1 1452154158
+/home/operations/2016/02
+crawl-66-249-74-127.googlebot.com
+0 9 9 214579 2 1451962344
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+static.82.48.243.136.clients.your-server.de
+0 4 4 164348 1 1452401689
+/
+b115506.yse.yahoo.net
+0 21 20 488974 4 1452459104
+/home/operations/2015/10
+baiduspider-123-125-71-47.crawl.baidu.com
+0 1 1 299 0 0
+-
+localhost
+0 110 74 3527327 5 1452530159
+/
+203.113.152.12
+0 360 339 11959476 77 1452536363
+/
+203.113.152.13
+0 355 330 11924956 78 1452549458
+/
+203.113.152.14
+0 413 390 14418093 106 1452556271
+/gallery
+203.113.152.15
+0 305 285 10002630 71 1452556102
+/
+crawl-66-249-79-235.googlebot.com
+0 1 1 45602 0 0
+-
+14.185.36.109
+0 12 12 799296 1 1452523571
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+crawl-66-249-69-126.googlebot.com
+0 1 0 550 0 0
+-
+boson062.ahrefs.com
+0 1 1 35742 0 0
+-
+msnbot-157-55-39-218.search.msn.com
+0 1 1 28776 0 0
+-
+42.113.113.137
+0 12 12 805891 0 0
+-
+206.253.224.14
+0 4 4 93130 1 1452129148
+/
+92.222.83.8
+0 1 1 46134 1 1451696134
+/
+static.87.5.243.136.clients.your-server.de
+0 9 7 117562 3 1452468572
+/home/operations/2015/02
+203.113.152.29
+0 4 4 184630 4 1452522050
+/
+google-proxy-64-233-172-252.google.com
+0 5 5 133644 1 1452156982
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+crawl-66-249-71-170.googlebot.com
+0 17 17 627431 4 1452160065
+/details/dic/23/co-cau-bo-van-hoa-the-thao-va-du-lich/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6
+ns322237.ip-213-251-184.eu
+0 9 6 145773 1 1451966710
+/
+203.113.152.30
+0 3 3 138417 3 1452457664
+/
+msnbot-40-77-167-16.search.msn.com
+0 16 16 553122 1 1452275573
+/discussion_question
+163-172-12-127.rev.poneytelecom.eu
+0 13 13 439157 1 1452167164
+/gallery
+baiduspider-180-76-15-135.crawl.baidu.com
+0 1 1 46437 1 1452136282
+/
+63.ip-51-254-32.eu
+0 5 4 110516 1 1452289340
+/
+136.243.103.92.mj12bot.crawler.software
+0 117 105 3242846 5 1452453189
+/details/dic/85/tin-noi-bat/xay-dung-de-an-to-chuc-sea-games-31-tai-viet-nam/contact
+msnbot-157-55-39-8.search.msn.com
+0 14 14 405259 2 1452024712
+/
+msnbot-131-253-24-139.search.msn.com
+0 1 1 96257 0 0
+-
+static.170.89.9.5.clients.your-server.de
+0 20 10 236842 3 1452525020
+/home/operations/2018/03
+msnbot-157-55-39-236.search.msn.com
+0 12 12 528248 2 1452481536
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+msnbot-157-55-39-175.search.msn.com
+0 2 2 27015 1 1451902083
+/contact
+crawl-66-249-69-159.googlebot.com
+0 7 5 350931 3 1452555846
+/share/
+baiduspider-180-76-15-142.crawl.baidu.com
+0 1 1 46297 1 1452470492
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+boson046.ahrefs.com
+0 10 10 380321 4 1452545876
+/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+baiduspider-180-76-15-153.crawl.baidu.com
+0 2 1 30380 0 0
+-
+crawl-66-249-75-60.googlebot.com
+0 1 1 299 0 0
+-
+vigor.router
+0 1205 279 32246013 6 1452534033
+/
+203.113.152.1
+0 1 1 46138 1 1452519424
+/
+203.113.152.2
+0 2 2 92437 2 1452533111
+/
+203.113.152.4
+0 8 8 309426 3 1452552350
+/
+203.113.152.6
+0 1 1 46138 1 1452480963
+/
+203.113.152.7
+0 1 1 38093 0 0
+-
+203.113.152.8
+0 1 1 46138 1 1452494148
+/
+203.113.152.9
+0 1 1 46138 1 1452502651
+/
+42.112.254.65
+0 15 15 596210 1 1452524084
+/
+msnbot-157-55-39-171.search.msn.com
+0 5 5 173871 1 1452490042
+/category/dic/quan-he-quoc-te/14
+baiduspider-180-76-15-13.crawl.baidu.com
+0 1 1 38446 0 0
+-
+61.135.169.10
+0 1 1 22641 0 0
+-
+62-210-115-133.rev.poneytelecom.eu
+0 13 7 144183 1 1452524132
+/
+210.211.106.100
+0 4 3 86192 3 1452540594
+-
+211.139.162.248
+0 9 9 860005 1 1452515048
+/
+210.211.106.101
+0 2 2 62713 2 1452517847
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+crawl-66-249-69-57.googlebot.com
+0 4 4 121702 2 1452490120
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+210.211.106.102
+0 4 4 120817 3 1452517614
+/details/dic/21/tin-su-kien/dong-chi-le-khanh-hai
+210.211.106.103
+0 2 2 68016 2 1452517787
+/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam
+210.211.106.104
+0 1 1 39839 1 1452483265
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+210.211.106.105
+0 2 2 52388 2 1452540172
+/home/operations/2013/04
+210.211.106.106
+0 4 3 96451 3 1452540778
+-
+210.211.106.108
+0 3 2 58237 3 1452540157
+-
+210.211.106.109
+0 3 3 101997 3 1452517569
+/details/dic/83
+210.211.106.110
+0 2 2 70242 2 1452517908
+/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition
+210.211.106.111
+0 3 3 98369 2 1452481517
+/page/ho_so_lanh_dao_cuc/2/van-phong
+210.211.106.112
+0 1 1 29845 1 1452486180
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien
+210.211.106.113
+0 1 1 31435 1 1452517731
+/details/dic/83/tin-su-kien/top-5-diem-tham-quan-du-lich-hang-dau-viet-nam
+210.211.106.114
+0 3 3 75136 1 1452478574
+/page/ho_so_lanh_dao_cuc/1
+210.211.106.116
+0 1 1 22344 1 1452480405
+/home/operations/2018/10
+210.211.106.117
+0 3 3 77299 2 1452488395
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+210.211.106.118
+0 4 3 92660 4 1452540778
+-
+210.211.106.119
+0 3 2 62895 1 1452484308
+/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh
+210.211.106.120
+0 3 2 72838 3 1452540157
+-
+210.211.106.121
+0 2 1 29600 2 1452540533
+-
+210.211.106.122
+0 3 3 73636 2 1452481168
+/home/operations/2019/03
+210.211.106.123
+0 1 1 32936 1 1452478117
+/details/dic/107
+210.211.106.124
+0 1 0 1637 0 0
+-
+210.211.106.125
+0 1 1 32094 1 1452478574
+/page/ho_so_lanh_dao_cuc/4
+210.211.106.126
+0 1 0 403 0 0
+-
+msnbot-157-55-39-28.search.msn.com
+0 5 5 117655 1 1452490089
+/contact
+111.206.36.5
+0 1 1 22374 0 0
+-
+111.206.36.6
+0 1 1 126678 0 0
+-
+111.206.36.7
+0 3 3 245309 0 0
+-
+111.206.36.8
+0 1 1 22641 0 0
+-
+crawl-66-249-75-64.googlebot.com
+0 5 4 153914 1 1452531179
+/details/dic/101/tin-noi-bat/ngay-quoc-gia-viet-nam-tai-expo-milan-2015-an-tuong-kho-phai/14
+173.252.75.113
+0 1 1 18123 0 0
+-
+173.252.75.114
+0 2 2 40292 0 0
+-
+173.252.75.118
+0 1 1 20556 0 0
+-
+210.211.106.10
+0 3 2 61110 1 1452517617
+/home/operations/2013/03
+210.211.106.11
+0 2 1 32695 2 1452540501
+-
+210.211.106.12
+0 1 1 29507 0 0
+-
+210.211.106.13
+0 3 3 87299 2 1452483624
+/details/video/6/video-tham-khao/vietnam-timeless-charm/
+210.211.106.14
+0 1 1 29688 0 0
+-
+210.211.106.15
+0 1 1 34137 1 1452484929
+/details/dic/21/ho-so-lanh-dao-bo/dong-chi-le-khanh-hai/7
+210.211.106.16
+0 3 3 77238 3 1452517674
+/home/operations/2013/09
+210.211.106.17
+0 3 3 108043 3 1452517970
+/details/dic/115/tin-su-kien/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia
+crawl-66-249-69-1.googlebot.com
+0 1 1 32736 0 0
+-
+210.211.106.18
+0 5 4 125046 3 1452517674
+/home/operations/2026/07
+210.211.106.19
+0 2 2 61633 2 1452487293
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/
+210.211.106.20
+0 2 1 33929 1 1452480071
+/page/ho_so_lanh_dao_cuc/2/
+210.211.106.21
+0 2 2 62660 2 1452517730
+/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+210.211.106.22
+0 2 2 62874 2 1452517614
+/details/dic/20/tin-su-kien/dong-chi-huynh-vinh-ai
+210.211.106.23
+0 2 0 2030 0 0
+-
+210.211.106.24
+0 1 1 22699 1 1452540172
+/home/operations/2021/08
+210.211.106.25
+0 1 1 32500 1 1452517787
+/details/dic/99/tin-su-kien/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016
+210.211.106.26
+0 1 1 22267 1 1452476911
+/home/operations/2015/12
+210.211.106.27
+0 1 1 46356 1 1452495896
+/
+210.211.106.28
+0 1 1 36385 1 1452476075
+/details/dic/87
+210.211.106.29
+0 1 1 32126 1 1452486744
+/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+173.252.113.116
+0 1 1 20059 0 0
+-
+173.252.113.117
+0 1 1 24325 0 0
+-
+baiduspider-123-125-71-42.crawl.baidu.com
+0 1 1 46318 1 1452541241
+/
+210.211.106.30
+0 2 2 58366 2 1452517567
+/home/operations/2023/07
+210.211.106.31
+0 1 1 34462 1 1452483623
+/page/ho_so_lanh_dao_cuc/6/phong-chau-a---thai-binh-duong
+210.211.106.32
+0 2 2 68538 1 1452479669
+/details/dic/96/
+210.211.106.33
+0 2 2 56580 2 1452540519
+/home/operations/2014/06
+210.211.106.34
+0 1 1 36024 1 1452517569
+/details/dic/88
+210.211.106.35
+0 3 2 66910 3 1452540778
+-
+210.211.106.37
+0 4 4 107069 4 1452540519
+/home/operations/2011/12
+210.211.106.38
+0 1 0 1383 1 1452540533
+-
+210.211.106.39
+0 1 1 30822 1 1452475611
+/discussion_question
+mj1.naefmarco.ch
+0 5 5 127651 1 1452474405
+/video/dic/video-tham-khao/23
+msnbot-40-77-167-68.search.msn.com
+0 16 16 553122 1 1452490784
+/discussion_question
+root.naefmarco.ch
+0 7 6 145162 1 1452472759
+/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9
+ns300543.ip-91-121-64.eu
+0 25 25 825197 1 1452488062
+/gallery
+210.211.106.40
+0 1 1 31888 1 1452481517
+/page/ho_so_lanh_dao_cuc/4/phong-chau-au
+210.211.106.41
+0 2 2 60205 1 1452481852
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+210.211.106.43
+0 5 4 133000 4 1452540533
+-
+210.211.106.44
+0 1 1 28689 1 1452482198
+/page/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi
+210.211.106.45
+0 1 1 34582 1 1452478575
+/page/ho_so_lanh_dao_cuc/6
+210.211.106.46
+0 4 3 87240 4 1452540594
+-
+210.211.106.47
+0 1 1 29972 1 1452483623
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai
+210.211.106.48
+0 4 4 121334 4 1452540502
+/home/operations/2014/03
+210.211.106.49
+0 3 3 75282 3 1452540171
+/home/operations/2012
+210.211.106.50
+0 1 0 1373 1 1452517672
+-
+210.211.106.51
+0 1 1 22845 1 1452479669
+/home/operations/2019
+210.211.106.52
+0 2 2 54561 2 1452484309
+/details/dic/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5
+210.211.106.53
+0 4 4 125082 2 1452517907
+/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+210.211.106.54
+0 4 3 72967 3 1452540594
+-
+210.211.106.55
+0 1 1 31260 1 1452488395
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+210.211.106.56
+0 1 1 34629 1 1452487293
+/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/
+210.211.106.57
+0 2 2 69242 2 1452482524
+/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/
+210.211.106.58
+0 2 2 66244 2 1452517908
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai
+210.211.106.59
+0 1 1 22226 1 1452477790
+/home/operations/2015/09
+static.vnpt-hanoi.com.vn
+0 775 114 7510832 1 1452531979
+/
+210.211.106.61
+0 2 2 55248 2 1452479670
+/home/operations/2017/08
+210.211.106.62
+0 1 1 46096 1 1452475610
+/home
+210.211.106.63
+0 3 2 62749 1 1452482946
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/
+210.211.106.64
+0 2 1 40240 2 1452540501
+-
+210.211.106.65
+0 1 0 403 0 0
+-
+210.211.106.67
+0 1 0 403 0 0
+-
+210.211.106.69
+0 1 1 29841 1 1452479318
+/page/ho_so_lanh_dao_cuc/3/
+210.211.106.70
+0 6 6 180093 4 1452540172
+/home/operations/2013/08
+210.211.106.71
+0 3 2 75196 2 1452517569
+/details/dic/95
+210.211.106.72
+0 4 3 94809 3 1452540533
+-
+210.211.106.73
+0 3 2 56581 3 1452517567
+-
+210.211.106.74
+0 1 1 30484 1 1452517614
+/details/dic/19/tin-su-kien/dong-chi-hoang-tuan-anh
+210.211.106.77
+0 7 5 155958 3 1452540501
+/home/operations/2023/07
+210.211.106.78
+0 1 0 1383 1 1452540501
+-
+msnbot-157-55-39-235.search.msn.com
+0 2 2 58547 1 1452501008
+/home/operations/2015/11
+210.211.106.79
+0 2 2 60972 1 1452484929
+/details/dic/20/ho-so-lanh-dao-bo/dong-chi-huynh-vinh-ai/
+crawl-66-249-69-65.googlebot.com
+0 2 2 77757 0 0
+-
+210.211.106.80
+0 3 2 60128 1 1452482198
+/category/dic/viet-nam-cultural-centers-abroad/27
+210.211.106.81
+0 1 1 32132 1 1452483265
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang
+210.211.106.82
+0 1 1 32146 1 1452487855
+/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap
+210.211.106.83
+0 1 1 30586 1 1452482524
+/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018
+210.211.106.84
+0 2 1 23687 2 1452540712
+-
+210.211.106.85
+0 1 1 36528 1 1452517847
+/details/dic/98/tin-su-kien/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016
+210.211.106.86
+0 1 1 30496 1 1452480072
+/page/ho_so_lanh_dao_cuc/1/
+210.211.106.87
+0 2 2 55595 2 1452540519
+/home/operations/2012/02
+210.211.106.88
+0 2 2 59383 1 1452479318
+/page/ho_so_lanh_dao_cuc/7
+111.206.36.12
+0 2 2 149052 0 0
+-
+111.206.36.13
+0 2 2 222935 0 0
+-
+111.206.36.14
+0 1 1 37080 0 0
+-
+111.206.36.17
+0 2 2 74160 0 0
+-
+111.206.36.19
+0 1 1 22374 0 0
+-
+210.211.106.91
+0 4 3 108343 4 1452540652
+-
+210.211.106.92
+0 3 3 108577 2 1452517787
+/details/dic/79/tin-su-kien/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+210.211.106.93
+0 1 1 34085 1 1452486744
+/details/dic/22/ho-so-lanh-dao-bo/dong-chi-dang-thi-bich-lien/7
+210.211.106.96
+0 4 3 90716 3 1452540157
+-
+210.211.106.98
+0 5 4 111006 5 1452540533
+-
+5ed0915f.cm-7-1c.dynamic.ziggo.nl
+0 13 8 209246 1 1452548033
+/
+42.113.153.155
+0 60 25 889180 1 1452548916
+/
+crawl-66-249-69-153.googlebot.com
+0 2 2 87870 1 1452500593
+/
+baiduspider-180-76-15-12.crawl.baidu.com
+0 2 2 31251 0 0
+-
+static.215.5.243.136.clients.your-server.de
+0 13 10 259810 1 1452516885
+/home/operations/2018/01
+gr212.tfbnw.net
+0 1 1 20556 0 0
+-
+ju058.jupiter.fastwebserver.de
+0 26 13 35916 1 1452509121
+/home/operations/2013/11
+f481.fuchsia.fastwebserver.de
+0 12 6 143243 1 1452493008
+/
+31.13.110.103
+0 1 1 36404 1 1452510968
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+31.13.110.104
+0 1 1 36404 1 1452511185
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+msnbot-207-46-13-74.search.msn.com
+0 12 12 451760 2 1452501015
+/home/operations/2016/01
+crawl-66-249-69-113.googlebot.com
+0 2 2 82319 1 1452496827
+/
+crawl812.us.archive.org
+0 2 2 47048 1 1452521251
+/
+gr215.tfbnw.net
+0 2 2 38182 0 0
+-
+115.230.126.48
+0 2 1 46766 1 1452483059
+/
+ns348917.ip-91-121-169.eu
+0 61 23 606644 1 1452529643
+/
+31.13.110.122
+0 1 1 35523 1 1452512003
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+ns500.vnanet.vn
+0 12 12 431285 0 0
+-
+mj2.naefmarco.ch
+0 5 5 133350 1 1452480932
+/details/video/4/video-chung-toi/expo-2015-my-vietnam/22
+msnbot-157-55-39-67.search.msn.com
+0 1 1 28362 1 1452527460
+/category/dic/su-kien-quoc-te/10
+static.vdc.vn
+0 63 57 1576358 4 1452513094
+/page/profile_department_for_international_cooperation
+msnbot-157-55-39-119.search.msn.com
+0 6 6 213296 1 1452490002
+/gallery
+173.252.120.101
+0 1 1 46302 1 1452534632
+/
+118.70.211.242
+0 62 29 1490565 1 1452519450
+/
+b115372.yse.yahoo.net
+0 1 1 44517 0 0
+-
+173.252.115.87
+0 1 1 20556 0 0
+-
+173.252.115.88
+0 2 2 38182 0 0
+-
+planetlab-04.vt.nodes.planet-lab.org
+0 1 1 36140 1 1452521399
+/
+173.252.115.90
+0 1 1 20233 0 0
+-
+117.6.161.187
+0 43 43 2228629 1 1452508626
+/
+msnbot-157-55-39-195.search.msn.com
+0 9 9 271367 1 1452489994
+/video/dic/video-tham-khao/23
+sv1.davihost.net
+0 1 1 46832 1 1452540114
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 46357 1 1452553973
+/
+mj10.naefmarco.ch
+0 2 2 34628 1 1452477719
+/video/dic/Video-Chúng-Tôi/22
+dynamic.vdc.vn
+0 57 55 2846797 1 1452508469
+/gallery
+msnbot-207-46-13-37.search.msn.com
+0 9 9 137777 2 1452505037
+/category/dic/the-gioi-voi-viet-nam/25
+crawl-66-249-75-51.googlebot.com
+0 2 2 63150 0 0
+-
+173.252.88.244
+0 1 1 20556 0 0
+-
+173.252.88.247
+0 2 2 38182 0 0
+-
+173.252.88.249
+0 1 1 20233 0 0
+-
+38-111-147-088.co147.iparadigms.net
+0 2 2 46420 1 1452519851
+/
+61.135.169.7
+0 1 1 126678 0 0
+-
+61.135.169.8
+0 1 1 46193 1 1452481559
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 0 530 1 1452470491
+/
+173.252.90.107
+0 1 1 9305 0 0
+-
+173.252.90.117
+0 1 1 39786 1 1452502306
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+173.252.90.120
+0 1 1 9305 0 0
+-
+173.252.90.121
+0 1 1 39786 1 1452502302
+/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+173.252.90.122
+0 1 1 9305 0 0
+-
+111.206.36.132
+0 3 3 181441 0 0
+-
+111.206.36.133
+0 1 1 34307 0 0
+-
+111.206.36.134
+0 3 3 155711 0 0
+-
+111.206.36.137
+0 1 1 96257 0 0
+-
+111.206.36.138
+0 3 3 171693 0 0
+-
+111.206.36.139
+0 3 3 102511 0 0
+-
+111.206.36.141
+0 1 1 96257 0 0
+-
+111.206.36.143
+0 1 1 22641 0 0
+-
+111.206.36.144
+0 3 3 141539 0 0
+-
+111.206.36.145
+0 2 2 68479 0 0
+-
+111.206.36.147
+0 1 1 22641 0 0
+-
+31.13.110.96
+0 1 1 36403 1 1452510971
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+boson047.ahrefs.com
+0 1 1 299 0 0
+-
+gr213.tfbnw.net
+0 1 1 20233 0 0
+-
+crawl-66-249-69-147.googlebot.com
+0 2 2 46884 1 1452530419
+/
+60.ip-51-254-130.eu
+0 12 6 143595 1 1452481225
+/
+61.135.165.8
+0 1 1 22374 0 0
+-
+61.135.165.9
+0 2 2 133337 0 0
+-
+ec2-174-129-237-157.compute-1.amazonaws.com
+0 7 7 181058 0 0
+-
+b115318.yse.yahoo.net
+0 6 4 121879 1 1452513069
+/share/
+70.ip-51-255-51.eu
+0 24 15 480442 1 1452492480
+/
+timtoi.vn
+0 6 6 351967 1 1452529194
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 46437 1 1452489394
+/
+mj4.naefmarco.ch
+0 11 5 120946 1 1452473772
+/
+boson053.ahrefs.com
+0 5 5 190238 3 1452554562
+/details/dic/103/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/quang-ba-du-lich-viet-nam-tai-singapore/27
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 299 0 0
+-
+static.86.48.243.136.clients.your-server.de
+0 1 1 28097 0 0
+-
+27.77.147.172
+0 11 11 438556 1 1452547776
+/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+mj9.naefmarco.ch
+0 6 6 187494 1 1452472906
+/details/dic/91/du-lich/vuon-quoc-gia-phong-nha---ke-bang-lan-thu-hai-ghi-danh-vao-danh-sach-di-san-the-gioi/13
+crawl-66-249-69-122.googlebot.com
+0 1 1 36415 1 1452475956
+/details/dic/118/tin-su-kien/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+static.85-10-211-235.clients.your-server.de
+0 13 6 97025 1 1452490083
+/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+crawl-66-249-79-242.googlebot.com
+0 1 1 34288 0 0
+-
+static.cmcti.vn
+0 26 23 1113233 1 1452478898
+/
+andyverdi.com
+0 1 1 30996 0 0
+-
+static.85.48.243.136.clients.your-server.de
+0 2 2 73069 0 0
+-
+google-proxy-66-249-85-231.google.com
+0 2 2 416648 1 1452541894
+/
+62-210-152-89.rev.poneytelecom.eu
+0 13 12 141535 1 1452493912
+/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich
+210.211.106.1
+0 2 2 61664 2 1452517847
+/details/dic/86/tin-su-kien/tap-huan-dao-tao-boi-duong-kien-thuc-ve-chuyen-mon-nghiep-vu-the-duc-the-thao
+210.211.106.4
+0 1 1 38001 1 1452517847
+/details/dic/114/tin-su-kien/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano
+210.211.106.5
+0 2 2 68434 1 1452481851
+/home/operations/2018/05
+210.211.106.6
+0 3 3 95697 2 1452517730
+/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi
+210.211.106.7
+0 1 1 32274 1 1452477295
+/details/dic/103
+210.211.106.8
+0 3 2 53718 2 1452517673
+-
+210.211.106.9
+0 2 1 19871 1 1452480798
+/category/dic/su-kien-trong-nuoc/9
+www.whois.sc
+0 2 2 93045 2 1452521479
+/
+136.243.103.156.mj12bot.crawler.software
+0 2 2 40311 1 1452507920
+/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+1.55.96.43
+0 58 53 2297066 1 1452506996
+/
+crawl-66-249-69-49.googlebot.com
+0 10 10 427455 1 1452541925
+/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10
+b115506.yse.yahoo.net
+0 1 1 34803 0 0
+-
+baiduspider-123-125-71-47.crawl.baidu.com
+0 1 1 299 0 0
+-
+localhost
+0 55 29 812170 2 1452530159
+/
+203.113.152.12
+0 58 54 1983462 11 1452536363
+/
+203.113.152.13
+0 62 57 2085367 9 1452549458
+/
+203.113.152.14
+0 56 51 1893257 12 1452556271
+/gallery
+203.113.152.15
+0 63 60 2152838 13 1452556102
+/
+14.185.36.109
+0 12 12 799296 1 1452523571
+/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+42.113.113.137
+0 12 12 805891 0 0
+-
+203.113.152.29
+0 1 1 46213 1 1452522050
+/
+static.170.89.9.5.clients.your-server.de
+0 4 4 67646 1 1452525020
+/home/operations/2018/03
+msnbot-157-55-39-236.search.msn.com
+0 10 10 455232 1 1452481536
+/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+crawl-66-249-69-159.googlebot.com
+0 3 1 141728 2 1452555846
+/share/
+baiduspider-180-76-15-142.crawl.baidu.com
+0 1 1 46297 1 1452470492
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://icd.gov.vn/details/dic/100/tin-su-kien/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+1 29
+http://icd.gov.vn/details/dic/117/tin-su-kien/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+1 9
+http://icd.gov.vn/bootstrap/v2.2/bootstrap.css
+1 60
+http://coccoc.com/search
+0 1
+http://chtqt.gov.vn/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+0 9
+- (Direct Request)
+0 7182
+http://statics.icd.gov.vn/private/administration/
+1 4
+http://icd.gov.vn/wp-login.php
+1 2
+http://icd.gov.vn/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/20
+1 2
+http://chtqt.gov.vn/details/dic/115/tin-noi-bat/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+0 14
+http://www.icd.gov.vn/category/dic/viet-nam-cultural-centers-abroad/27
+1 10
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/7/trung-tam-quang-ba-van-hoa-the-thao-va-du-lich.icd
+1 28
+http://icd.gov.vn/details/dic/82/tin-su-kien/ky-niem-55-nam-ngay-thanh-lap-nganh-du-lich-viet-nam/13.icd
+1 1
+http://travelandculture.vn/
+0 18
+http://chtqt.gov.vn/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+0 8
+http://icd.gov.vn/category/dic/quan-he-quoc-te/14.icd
+1 1
+http://www.icd.gov.vn/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+1 2
+http://chtqt.gov.vn/video/dic/video-chung-toi/22.icd
+0 9
+http://statics.icd.gov.vn/bootstrap/v2.2/bootstrap.css
+1 14
+http://icd.gov.vn/category/dic/du-lich/13.icd
+1 5
+http://chtqt.gov.vn/home/operations/2015/12
+0 9
+http://icd.gov.vn/details/dic/107/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/viet-nam-tham-gia-le-hoi-van-hoa-am-thuc-chau-a-tai-kiev/27
+1 2
+http://chtqt.gov.vn/category/dic/viet-nam-cultural-centers-abroad/27.icd
+0 9
+http://chtqt.gov.vn/details/dic/113/tin-noi-bat/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11
+0 3
+http://chtqt.gov.vn/bootstrap/v2.2/bootstrap.css
+0 1
+http://chtqt.gov.vn/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11.icd
+0 9
+http://icd.gov.vn/video/dic/video-tham-khao/23.icd
+1 3
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/6/phong-chau-a---thai-binh-duong.icd
+1 6
+http://www.google.com/search
+0 5
+http://icd.gov.vn/details/dic/115/tin-noi-bat/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+1 1
+http://icd.gov.vn/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi.icd
+1 1
+http://www.icd.gov.vn/details/dic/98/the-thao/hop-bao-quoc-te-dai-hoi-the-thao-bai-bien-chau-a-lan-thu-5---2016/12
+1 10
+http://icd.gov.vn/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11.icd
+1 10
+http://icd.gov.vn/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+1 3
+http://www.icd.gov.vn/
+1 62
+http://icd.gov.vn//category/dic/ho-so-lanh-dao-bo/7.icd
+1 1
+http://chtqt.gov.vn/discussion_question.icd
+0 9
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/5/phong-chau-my---chau-phi.icd
+1 3
+http://icd.gov.vn/gallery
+1 29
+http://travelandculture.vn/details/dic/89/su-kien-trong-nuoc/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+0 5
+http://icd.gov.vn/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+1 3
+http://idc.vn/
+0 1
+http://icd.gov.vn/details/dic/23/co-cau-bo-van-hoa-the-thao-va-du-lich/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6
+1 10
+https://www.facebook.com/
+0 2
+http://chtqt.gov.vn/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12.icd
+0 9
+http://whois.domaintools.com/chtqt.gov.vn
+0 2
+http://icd.gov.vn/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13
+1 10
+http://chtqt.gov.vn/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/31.icd
+0 9
+http://icd.gov.vn/home.icd
+1 3
+http://icd.gov.vn/category/dic/the-gioi-voi-viet-nam/25.icd
+1 13
+http://travelandculture.vn/home/operations/2010/10
+0 2
+http://cinet.vn/articledetail.aspx
+0 1
+http://www.bing.com/search
+0 1
+http://travelandculture.vn/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+0 15
+http://icd.gov.vn/category/dic/tin-anh/31.icd
+1 11
+http://travelandculture.vn/home/operations/2000/01
+0 3
+http://icd.gov.vn/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12.icd
+1 1
+http://r.search.yahoo.com/_ylt
+0 1
+http://chtqt.gov.vn/home/operations/2010/05
+0 3
+http://icd.gov.vn/page/gioi_thieu/1/cuc-hop-tac-quoc-te/cuc-hop-tac-quoc-te/5.icd
+1 787
+http://www.geocities.jp/uhchatnet/list3.html
+0 2
+http://www.icd.gov.vn/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11
+1 2
+http://icd.gov.vn/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11.icd
+1 7
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/2/van-phong.icd
+1 9
+http://icd.gov.vn/home/operations/2016/01
+1 1
+http://icd.gov.vn/home/operations/2016/02
+1 1
+http://www.icd.gov.vn/details/dic/112/tin-noi-bat/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11
+1 2
+http://chtqt.gov.vn/
+0 28
+http://icd.gov.vn/details/dic/113/tin-su-kien/trao-ky-niem-chuong-vi-su-nghiep-van-hoa-the-thao-va-du-lich-cho-giam-doc-du-an-transposition/11.icd
+1 4
+http://chtqt.gov.vn/category/dic/van-hoa/11.icd
+0 18
+http://icd.gov.vn/details/dic/119/the-gioi-noi-ve-viet-nam/viet-nam-la-diem-sang-giua-vong-xoay-bat-on-cua-the-gioi/25.icd
+1 2
+http://icd.gov.vn
+1 25
+http://chtqt.gov.vn/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+0 9
+http://cinet.vn/
+0 2
+http://www.icd.gov.vn/bootstrap/v2.2/bootstrap.css
+1 4
+http://chtqt.gov.vn/gallery
+0 13
+http://icd.gov.vn/video/dic/video-chung-toi/22.icd
+1 5
+http://travelandculture.vn
+0 15
+http://www.google.com/url
+0 1
+http://chtqt.gov.vn/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+0 9
+http://wanew.org/phim/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-g-1478013.html
+0 1
+http://icd.gov.vn/details/dic/100/su-kien-cua-chung-toi/hang-van-du-khach-tham-du-ngay-quoc-gia-viet-nam-tai-expo-milan-2015/10.icd
+1 111
+https://www.google.com.vn
+0 1
+http://icd.gov.vn/category/dic/ho-so-lanh-dao-bo/7.icd
+1 37
+www.icd.gov.vn
+1 8
+http://chtqt.gov.vn/contact.icd
+0 9
+http://chtqt.gov.vn/category/dic/the-thao/12.icd
+0 9
+http://chtqt.gov.vn/share/
+0 124
+https://www.google.com/
+0 30
+http://icd.gov.vn/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+1 12
+http://whois.domaintools.com/travelandculture.vn
+0 2
+http://www.icd.gov.vn/details/dic/95/tin-su-kien/net-dep-truyen-thong-gia-dinh-viet-nam/20.icd
+1 10
+http://travelandculture.vn/gallery
+0 5
+http://chtqt.gov.vn/home/operations/2016/02
+0 9
+http://icd.gov.vn/details/dic/110/tin-anh/ngay-viet-nam-tai-expo-2015-milano-italia/31.icd
+1 1
+http://www.icd.gov.vn/details/dic/114/tin-noi-bat/tong-thong-italia-chuc-mung-thanh-cong-cua-viet-nam-tai-expo-2015-milano/11
+1 10
+http://icd.gov.vn/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+1 3
+http://icd.gov.vn/category/dic/su-kien-cua-chung-toi/10.icd
+1 69
+http://www.icd.gov.vn/css/system.css
+1 7
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/1/lanh-dao-cuc-hop-tac-quoc-te.icd
+1 483
+http://icd.gov.vn/details/dic/80/tin-su-kien/hoi-thao-giai-phap-phat-trien-thi-truong-my-thuat-viet-nam-trong-boi-canh-kinh-te-xa-hoi-duong-dai/11
+1 1
+http://icd.gov.vn/category/dic/van-hoa/11.icd
+1 5
+http://chtqt.gov.vn/details/dic/97/gia-dinh/y-nghia-ngay-gia-dinh-viet-nam-286/20.icd
+0 20
+http://statics.icd.gov.vn/safe/
+1 11
+http://icd.gov.vn/details/dic/79/van-hoa/hoi-nghi-hoi-thao-khoa-hoc-va-cong-nghe-nam-2015/11
+1 9
+http://icd.gov.vn//category/dic/the-thao/12.icd
+1 1
+http://chtqt.gov.vn/details/dic/118/tin-noi-bat/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+0 9
+http://icd.gov.vn/css/system.css
+1 16
+http://www.icd.gov.vn/page/ho_so_lanh_dao_cuc/4/phong-chau-au.icd
+1 20
+http://icd.gov.vn/details/dic/112/tin-su-kien/chu-tich-thuong-vien-vuong-quoc-bi-tham-va-lam-viec-voi-hang-phim-tai-lieu-va-khoa-hoc-trung-uong/11.icd
+1 78
+http://icd.gov.vn/details/dic/84/tin-su-kien/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13.icd
+1 1
+http://www.icd.gov.vn/details/dic/116/tin-su-kien/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+1 1
+https://www.google.com.vn/
+0 1
+http://chtqt.gov.vn/video/dic/video-tham-khao/23.icd
+0 9
+http://travelandculture.vn/details/dic/106/trung-tam-van-hoa-viet-nam-o-nuoc-ngoai/dem-van-hoa-asean-2015-tai-na-uy/27
+0 11
+http://icd.gov.vn/details/dic/99/the-thao/ngay-chay-olympic-vi-suc-khoe-toan-dan-nam-2016/12
+1 20
+http://chtqt.gov.vn/details/dic/117/tin-noi-bat/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+0 9
+http://icd.gov.vn/
+1 400
+http://chtqt.gov.vn/category/dic/the-gioi-voi-viet-nam/25.icd
+0 9
+http://icd.gov.vn/wp-trackback.php
+1 1
+http://cinet.vn/ArticleDetail.aspx
+0 1
+http://icd.gov.vn/details/dic/19/ho-so-lanh-dao-bo/dong-chi-hoang-tuan-anh/7.icd
+1 2
+http://chtqt.gov.vn/category/dic/quan-he-quoc-te/14.icd
+0 9
+http://icd.gov.vn/contact.icd
+1 11
+http://travelandculture.vn/details/dic/115/van-hoa/trao-bang-khen-cho-tap-the-va-ca-nhan-da-co-dong-gop-xuat-sac-cho-nha-trien-lam-viet-nam-tai-expo-2015-milan-italia/11.icd
+0 3
+http://whois.domaintools.com/icd.gov.vn
+1 1
+http://icd.gov.vn/home/operations/2015/09
+1 1
+http://chtqt.gov.vn/category/dic/du-lich/13.icd
+0 13
+http://icd.gov.vn/home/operations/2015/10
+1 1
+http://icd.gov.vn/home/operations/2015/11
+1 1
+http://icd.gov.vn/home/operations/2015/12
+1 1
+http://icd.gov.vn/details/dic/117/van-hoa/tap-doan-cj---han-quoc-duoc-nhan-huan-chuong-huu-nghi-cua-chu-tich-nuoc-trao-tang/11.icd
+1 1
+http://www.icd.gov.vn/details/dic/96/tin-su-kien/bua-com-gia-dinh/20.icd
+1 2
+http://www.icd.gov.vn
+1 1
+http://chtqt.gov.vn/details/dic/118/du-lich/viet-nam---xlo-va-ki-a-ky-ke-hoach-hop-tac-du-lich-giai-doan-2016-2018/13.icd
+0 9
+http://www.icd.gov.vn/details/dic/84/du-lich/phat-trien-du-lich-viet-nam-trong-thoi-ky-moi/13
+1 9
+http://icd.gov.vn/details/dic/116/tin-noi-bat/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13.icd
+1 161
+http://icd.gov.vn/details/dic/89/su-kien-cua-chung-toi/to-chuc-festival-hue-lan-thu-ix---2016/9.icd
+1 3
+http://www.cinet.gov.vn/
+0 1
+http://icd.gov.vn/discussion_question.icd
+1 12
+http://statics.icd.gov.vn/
+1 118
+http://icd.gov.vn/details/dic/116/du-lich/bo-nhiem-dai-su-du-lich-viet-nam-tai-phap/13
+1 12
+http://icd.gov.vn/page/ho_so_lanh_dao_cuc/3/phong-ke-toan-tai-chinh.icd
+1 6
+http://icd.gov.vn/category/dic/viet-nam-cultural-centers-abroad/27.icd
+1 14
+icd.gov.vn
+1 8
+http://icd.gov.vn/details/dic/23/co-cau-bo-van-hoa-the-thao-va-du-lich/gioi-thieu-chuc-nang-nhiem-vu---co-cau-to-chuc-bo-van-hoa-the-thao-va-du-lich/6.icd
+1 54
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 73
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2608.0 Safari/537.36
+0 10
+Python-urllib/2.7
+0 4
+Mozilla/4.0 (compatible;)
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 8
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.10.0 (development) Safari/534.34
+0 42
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google Favicon
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
+0 1
+Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)
+0 4
+Mozilla/5.0 (Linux; U; Android 4.0.4; vi-vn; GT-I9100 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 13
+Y!J-ASR/0.1 crawler (http://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716/)
+0 53
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; coccoc/1.0; +http://help.coccoc.com/)
+0 554
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari/537.36
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+0 30
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 1533
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) XX
+0 1
+uhChat.net
+0 2
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 4
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2610.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.17.2490.86 Safari/537.36
+0 13
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+0 2
+Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E)
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20120716 Firefox/15.0a2
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 17
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2610.0 Safari/537.36
+0 10
+User-Agent==Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2611.0 Safari/537.36
+0 8
+Mozilla/5.0 (compatible; oBot/2.3.1; +http://filterdb.iss.net/crawler/)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+0 2
+Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)
+0 1
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 4
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 2570
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 115
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Vers
+0 11
+Mozilla/5.0
+0 11
+WinSCP/5.8 neon/0.30.1
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705;)
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 320
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N910C Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile S
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safar
+0 56
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 55
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/13C75
+0 18
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 12
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2613.0 Safari/537.36
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2602.0 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
+0 2
+Mozilla/5.0 (compatible; evc-batch/2.0)
+0 1
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2610.0 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari/537.36
+0 57
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 18
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari
+0 24
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+GigablastOpenSource/1.0
+0 2
+Wada.vn Vietnamese Search
+0 953
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/53
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 10
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 Firefox/35.0
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:43.0) Gecko/20100101 Firefox/43.0
+0 43
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 18
+TurnitinBot (https://turnitin.com/robot/crawlerinfo.html)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 1
+Googlebot (gocrawl v0.4)
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 308
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 11
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 2
+Mozilla/5.0 (Linux; Android 4.1.2; C1905 Build/15.1.C.2.8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile
+0 14
+.NET Framework/2.0
+0 58
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)
+0 5
+Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2612.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 2290
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 73
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+0 103
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 73
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0
+0 24
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 22
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~tinghirbahlas)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Qt/4.7.1 Safari/533.3
+0 424
+Mozilla/5.0 (Linux; Android 4.4.2; ASUS_T00J Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile 
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Firefox/38.0
+0 17
+Mozilla/5.0 (X11; CrOS x86_64 14.4.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2609.0 Safari/537.36
+0 10
+ia_archiver
+0 36
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 1
+crawler4j (https://github.com/yasserg/crawler4j/)
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 137
+facebookexternalhit/1.1
+0 6
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 4
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 4
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2608.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 25
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Saf
+0 12
+# End Of Table - agents
+# -search strings- 
+how to
+4
+http://travelandculture.vn/details/dic/89/tin-su-kien/to-chuc-festival-hue-lan-thu-ix---2016/9
+1
+����
+1
+�������
+1
+����
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

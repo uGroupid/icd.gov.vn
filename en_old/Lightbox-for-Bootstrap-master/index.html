@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <title>Lightbox for Bootstrap</title>
+
+  <meta name="description" lang="en" content="Lightbox for Bootstrap<, because it just works." />
+  <meta name="author" content="Dan Jones">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="shortcut icon" type="image/ico" href="favicon.png" />
+
+  <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="css/bootstrap.lightbox.css" rel="stylesheet" media="screen">
+  <style>
+/*** Page Styles ***/
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+section {
+  padding-top: 40px;
+}
+
+/* Jumbotron */
+.jumbotron {
+  position: relative;
+  padding: 70px 0 80px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+  background: #020031; /* Old browsers */
+  background: -moz-linear-gradient(45deg,  #020031 0%, #69c 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#020031), color-stop(100%,#69c)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(45deg,  #020031 0%,#69c 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(45deg,  #020031 0%,#69c 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(45deg,  #020031 0%,#69c 100%); /* IE10+ */
+  background: linear-gradient(45deg,  #020031 0%,#69c 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#020031', endColorstr='#69c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+     -moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+          box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+}
+.jumbotron h1 {
+  font-size: 80px;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: -2px;
+}
+.jumbotron p {
+  font-size: 40px;
+  font-weight: 200;
+  line-height: 1.25;
+  margin-bottom: 30px;
+}
+
+/* Download Button */
+.download-btn {
+  text-align: center;
+}
+.download-btn .btn {
+  padding: 19px 24px;
+  font-size: 24px;
+  font-weight: 200;
+  color: #fff;
+  border: 0;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+          box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+  -webkit-transition: none;
+     -moz-transition: none;
+          transition: none;
+}
+.download-btn .btn:hover {
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+          box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25);
+}
+.download-btn .btn:active {
+  -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.1);
+     -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.1);
+          box-shadow: inset 0 2px 4px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.1);
+}
+
+/*** Bootstrap  Pretty Print Styles ***/
+.com { color: #93a1a1; }
+.lit { color: #195f91; }
+.pun, .opn, .clo { color: #93a1a1; }
+.fun { color: #dc322f; }
+.str, .atv { color: #D14; }
+.kwd, .prettyprint .tag { color: #1e347b; }
+.typ, .atn, .dec, .var { color: teal; }
+.pln { color: #48484c; }
+
+.prettyprint {
+  padding: 8px;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+}
+.prettyprint.linenums {
+  -webkit-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+     -moz-box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+          box-shadow: inset 40px 0 0 #fbfbfc, inset 41px 0 0 #ececf0;
+}
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  margin: 0 0 0 33px; /* IE indents via margin-left */
+}
+ol.linenums li {
+  padding-left: 12px;
+  color: #bebec5;
+  line-height: 20px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+/* Bootstrap code examples
+-------------------------------------------------- */
+
+/* Base class */
+.example {
+  position: relative;
+  margin: 15px 0;
+  padding: 39px 19px 14px;
+  *padding-top: 19px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+/* Echo out a label for the example */
+.example:after {
+  content: "Example";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  color: #9da0a4;
+  -webkit-border-radius: 4px 0 4px 0;
+     -moz-border-radius: 4px 0 4px 0;
+          border-radius: 4px 0 4px 0;
+}
+
+/* Remove spacing between an example and it's code */
+.example + .prettyprint {
+  margin-top: -20px;
+  padding-top: 15px;
+}
+
+/* Custom example */
+.example .thumbnails .span3 {
+  width: 210px;
+}
+  </style>
+</head>
+<body data-spy="scroll" data-target=".navbar">
+
+
+<div class="container">
+  <section id="example">
+    <h2>Example</h2>
+    <div class="example">
+        <ul class="thumbnails" data-toggle="lightbox">
+            <li class="span3"><a href="img/image-1.jpg" title="Image #1" data-title-link="http://google.com" data-description="Lorem ipsum dolor" class="thumbnail"><img src="img/thumb-1.jpg" alt=""/></a></li>
+            <li class="span3"><a href="img/image-2.jpg" title="Image #2" data-title-link="#markup" data-description="Lorem ipsum dolor" class="thumbnail"><img src="img/thumb-2.jpg" alt=""/></a></li>
+            <li class="span3"><a href="img/image-3.jpg" title="Image #3" data-description="Lorem ipsum dolor" class="thumbnail"><img src="img/thumb-3.jpg" alt=""/></a></li>
+            <li class="span3"><a href="img/image-4.jpg" title="Image #4" data-description="Lorem ipsum dolor" class="thumbnail"><img src="img/thumb-4.jpg" alt=""/></a></li>
+        </ul>
+    </div>
+    <pre class="prettyprint linenums">
+&lt;ul class="thumbnails" data-toggle="lightbox"&gt;
+  &lt;li class="span3"&gt;
+    &lt;a href="img/image-1.jpg" title="Image #1" data-title-link="http://google.com" data-description="Lorem ipsum dolor" class="thumbnail"&gt;
+      &lt;img src="img/thumb-1.jpg" alt=""/&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="span3"&gt;
+    &lt;a href="img/image-2.jpg" title="Image #2" data-description="Lorem ipsum dolor" class="thumbnail"&gt;
+      &lt;img src="img/thumb-2.jpg" alt=""/&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="span3"&gt;
+    &lt;a href="img/image-3.jpg" title="Image #3" data-description="Lorem ipsum dolor" class="thumbnail"&gt;
+      &lt;img src="img/thumb-3.jpg" alt=""/&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="span3"&gt;
+    &lt;a href="img/image-4.jpg" title="Image #4" data-description="Lorem ipsum dolor" class="thumbnail"&gt;
+      &lt;img src="img/thumb-4.jpg" alt=""/&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+    </pre>
+  </section>
+</div>
+
+
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.lightbox.js"></script>
+
+<!-- The following external scripts are only included for the example demonstration and are not needed to run the lightbox. -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.js"></script>
+
+<script>
+// Load code prettifier
+$(document).ready(function(){
+  prettyPrint();
+});
+
+// Fancy text animation
+var ta = (function(a){
+  var a = $(a), b = a.text(), c = b.length, d = 200;
+  a.empty()
+  for(i=0;i<c;++i){
+    a.append($("<span/>").text(b[i]).fadeIn(1300+(d*i)));
+  }
+})("header p");
+$("abbr[data-toggle=tooltip]").tooltip();
+</script>
+</body>
+</html>
